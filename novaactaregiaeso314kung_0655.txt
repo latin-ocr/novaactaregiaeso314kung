@@ -1,0 +1,60 @@
+ 
+
+KONsTANTENBEsmMMUNG Ml'r BINEM LAMON'rsmn-:N THEODOLIT. 27
+
+Eine Tafel der friiher angewandten‚ und der mit diesen Werten
+von y, p und q berechneten d* mbge noch hier angeffihrt werden:
+
+ 
+
+ 
+
+ 
+
+ 
+
+¹ Index ¹ δ’ δ’ (ber.) A
+———* j vj* Ξῖ
+¹ 1 ¹ 0.00051 ἵ 0.00050 0- 0.00001 ¹
+2 η 0.02422 0.02425 - 3 ἢ
+¹ 3 ¹ 0.04027 0.04036 - 9 ³
+¹ 4 ι ο.ο5ι()2 0.05177 4- 15
+¹ 5 ¹ 0.06039 0.06018 μ 21 ¹
+¹ 6 ³ 0.06636 0.06662 .. 26 ¹
+7 0.07137 0.07157 — 20 ⁴
+8 Ἴ 0.07568 0.07546 ψ 22
+
+Wie man sieht, kommen die g1·‹')sse1·n Differenzen erst bei h611ere11 In·
+dices v0r; dies zeigt, dass die Verteilung der Fehler auch mit gleichem
+Gewicht fiir die log sin φ wenigstens nahezu riohtig ist.
+
+Mit. den Werten von p und q bekommt man zwei Gleichungen
+zur Bestimmung des Verhaltnisses a* zwischen Poldistanz und Stablitnge,
+vo-rausgesetzt, dass dieses fiir den Ablenkm‘1gsmagnet und fiir die Nadel
+dasselbe ist3 diese Gleichungen sind:
+
+,ΞΡ-ΒΓΔ 2
+-qssr——v αἶ = l) ‚
+
+4
+
+slfispffi -15l2l‘2 ΔΓ ξ νὴμ = q .
+
+Aus der ersten erhkilt man a· = 0454& aus der zweiten ιι· = 0.923;
+dabei dtirfte aber der letzte Wert zu verwerfen sein, da ι] wegen zu
+kleiner Koefficienten kaun] mit fiir diesen Zweek genfigender Sicherheit
+bestimmt werden kann3 der erstere stimm‘t7 wie man siem, mit dem oben
+
+angenommenen Wert ἓ ziemlich gut iiberein. Ferner giebr die Defini-
+
+ι
+
+tionsgleichung fiir y den gesuchten logk:
+log lc = &04:390ss ss 0-000154 .
+
+Mit den drei verschiedenen Methoden habe ich somit auch drei verschie-
+dene Werte fiir log lc bekornmen. deren Differenzen die Summe der
+wahrscheinliehen Fehler betrs'dchtlich iibersteigt‚ bei den am meisten
+von einander abweichenden sogar mehr als dreimal. Ein Mittel aus
+allen dreieu mit Gewiohten‚ die den Quadraten der wahrscheinlichen
+

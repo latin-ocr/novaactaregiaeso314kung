@@ -1,0 +1,50 @@
+KONSTANTENBESTIMMUNG MIT ElNEM LAMONTSCHEN THEODOLIT. 5
+
+woraus
+η· = — Mod (1 — a) (m — s) (t - 15) ‚
+
+wo zur Abkiirzung:
+
+Ξ Κ - VT ²⁷(71ss7727
+
+Κψκ m ψη)
+gesetzt wurde. Bei Belastung mit den Lamontschen Ringen war η =
+- 10-⁶.3·2, somit 4103 Τι = — 10-⁶.42·1(t- 15). Fur den Ring L (siehe
+
+α
+
+⁷ unten) wird dagegen η = - 10-⁶.2·4; somit Δ, log Τι = - 10-⁶.41·3<t- 15).
+
+ 
+
+— Die Grbsse η ist natiirlich dadurch von einiger Bedeutung, dass sie die
+Reduktion zur Normaltemperatur representierm ffir den fibrigen Tei] des
+Reduktionsfaktors kommt nur die Differenz der Temperatur bei Schwin-
+
+gungen mit und ohne Belastung in Betracht. — Ferner ergiebt sich:
+ΛΗ log sin φ = Mod. δέ] = Mod . ἐμὲ . (1692(ημη) = 10-⁶.45·5(n ὴη).
+
+Der vorher angewandte Wert, den ich im Herbste 1888 in
+der gewbnlichen von LAMONT angegebenen Weise bestimmt hatte, war
+10-⁶.55·0<n'-n). Die Differenz ist offenbar zu gross, um durch Beob-
+achtungsfehler erklfirt werden zu k61n]e1]; bekanntlieh Wird aber auch
+beim Lamontschen Verfahren die sehwer zu erfullende Voraussetzung
+gemacht, dass die Sehiene des Horizontalvariometers auf der Nadel genau
+senkreeh‘s. stehe. (Vergl. jedoch hieriiber am Schlusse des vorliegenden
+Aufsatzes‚ wo eine Bestimmung der Empfindlichkeitskonstante nach der
+Bergensehen Methode erwiihnt wird).
+
+2. Bestirnmung des Treigheitsmoments. Zu diesem Zwecke
+waren dem Apparate zWei Messingringe mitgegeben, der eine durch einen
+Doppelstrioh, der andere durch zwei entferntere Striohe gemerkt. Ich
+bezeichne den erstern als N:0 1, den zweiten als N:0 2. Ein paar mal
+wurde noch ein dritter kleinerer⁷ in Upsala verfertigter Ring‚ angewandt,
+den ich zur Unterscheidung mit· L bezeichne; {ihnliche Bezeiohnungen als
+Indices wende ich fiir die die Ringe betreffenden Gressen an. Die Aus-
+messung der {iusseren und inneren Diameter D und cl geschah mit einer
+Teilmaschine, die mit einem Normalmaasstab vergliohen wurde, und ergab
+bei 15⁰ Temperatur:
+
+D¹ = 19ssffl9758ss03010 ,
+d1 = 17.81T2 ‡O.‹›012 ,
+

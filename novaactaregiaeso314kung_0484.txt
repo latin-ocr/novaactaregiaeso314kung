@@ -1,0 +1,53 @@
+26 AXEL SoDERBLOM‚
+
+Le developpelnent (1) de ρζῑι), au besoin complete ἐι l’aide de la
+formule (19 recursion (7) p. 4, donne la valeur exacte de la fonction
+p(u>‚ si u est un point »dans 19 voisinage» de l'origine. La valeur de
+p(u) etant 991911199, la formule (5) donne la valeur de Ζ) (211), et ainsi
+(19 suite.
+
+Cette methode n'exige que l'emploi repete (19 la formule (5); elle
+dispense meme du oaloul penible des periodos de la fonction p(u).
+
+ξῡ.
+
+Cheroher le lieu des arguments ιι auxquels correspondent des valeurs reelles
+de la fonction pm).
+
+10 soit ,(χέ - 27:113> Ο-
+
+Dans le reotangle des periodes de la fonction PCM), aux cotes
+0‚2w et 072w‘, 011 ω’ = iw3, ω3 > Ο, des valeurs r‹¹‘elles de la fonction
+1)(11) correspondent
+
+1) aux valeurs reelles a: de ιι (0<21=<2w)
+
+2) aux valeurs imaginaires iy de a (O<y<2w³) .
+
+S’il y a encore des valeurs (19 l'argument u dans 19 reetangle des
+periodes auxquelles correspondent des valeurs reelles de la fonction 2)(ῑι),
+il faut (1119 ces arguments soient oomplexes: 1( παῖ-μέμ <Ο<αῑ<2ω7
+Ο < y< 2⁶03). Alors‚ on a ¹)
+
+(1) m ψ (9) = — - [²²42 ἶ 1192012 —J›<a:> ᾖ1)(9) -
+p (a) — 1³09>
+
+Les Valeurs des fonctions va) ‚ pay), p‘Qv) sont reelles.—p'(u)
+
+etant impairff), la valeur de p'<z'y) est imayz'naire. Afin que la valeur
+
+de [p'(1z³>—p‘(igs>]2 soit Melle, il faut neeessairement que
+
+pm) Ξ 0
+
+ou que
+p(z'y) = O .
+
+1) Voir SCHWARZ: p. 14. 2) Voir (6) p. 4.
+
+ 
+
+ 
+
+ 
+

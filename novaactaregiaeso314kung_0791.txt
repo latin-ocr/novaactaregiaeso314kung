@@ -1,0 +1,45 @@
+RECHERCHES SUR LA ROTATION DU SOLEIL. 77
+
+La solution de 008 equations s'est 10001100 000010 plus 1000110100
+que celle des equations precedentes. Cepeudant⁷ j'ai trouve apres quel-
+ques essais la formule suivante:
+
+(33) ξ Cos φ = 8⁰,59137 Cos (ρ -4- 5‘’‚52544 008² φ - 0⁰737835 Sin 2 ‹J› ‚
+ou
+(34) ξ Cos (ρ = [8⁰‚591 -ψ- 5⁴³,525 Cos φ - Ο(’,75ῖ Sin φ] Cos (p .
+
+En comparant les formules 29, 31 et 33 aveo les observatious,
+on obtient 108 erreurs residuelles suivantes:
+
+φ e' e'' e'''
+0¹24 4- 0‘304 ÷ 0914 π’- 0.003
+15.0 —0.14 —0.1x —0.07
+30.0 ψ 0.08 - 003 ÷ 0.05
+45.0 «1- ο.11 - 0.03 4- 0.02
+60.0 — 0.04 — 0.01 - 0.04
+Δ 74.8 - 0.14 4- 0.0ss -ν 0.01 .
+
+Les 001108 (108 01101118 1-081ἃ1101108 sont resp.
+090609 090400 0‘30104 .
+
+L⁷acoord des formules 33 et 34 aveo les observations est (1000
+00081ᾶο101>1010001 meilleur que celui des autres formules. Oependant, les
+erreurs residuelles 3⁰ et meme e' ne surpassent pas les erreurs proba-
+bles des observations. L'incertitude des eoeffieients dans les six formules
+est tres considerable, et il serait possible de representer les observations
+par des formules de la meme forme mais aveo des coeffieients dont les
+valeurs 80101001- assez differentes de celles des formules (30), (32) et (34).
+Il est dono evident que 010010 008 recherches n'ont pas suffi ἐι reveler
+la vraie forme de la loi de rotation du SoleiL, 01. quant 0 10 forme 134),
+elle ne 010 semble nullement plus probable que les deux autres. Car il
+est &vident qu'en introduisant dans le probleme trois 1000001108, on
+pourra beaucoup mieux rendre compte des observations.
+
+Cependant le fait deje revel& par les observations sur les 1001108
+semble bien etabli par mes observamus, 0 savoir que 10 rotation du
+Soleil devient plus lente 0 1008010 (111ὀο 80 rapproohe de ses poles. Si
+l'on ealoule une formule de la rotation du Soleil en supposant qu’elle 80
+fasse avec une vitesse uniforme sous toutes les latitudes heliooentriques,
+
+11¹·
+

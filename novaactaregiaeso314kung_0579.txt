@@ -1,0 +1,43 @@
+UEBER DEN ElNFLUss DER FADENToRsmN BE! MAGNETISCHEN ete. 7
+
+der elastischen Nachwirkungen die Einstellungen etwas un wiohffl wetden⁷
+zumal da bei der Ablenkung ausserhalb des Meridians die Direktions-
+kraft der Nadel erheblich verringert wird.
+
+Kehlen wir nun zu de1 oben gen-mutel] Intensitiitsbostirnmung
+zurfick! In der citirten Abhandlung des Herrn Professor LUNDQUIST
+sind die bei dem Abstande von 0.7 engl. Fuss, weleher hier in Frage
+kommt7 anzuwendenden Formeln nach ᾸΝΘΞΤΒῶΜε Bestinnnungen zusam-
+mengestellt‚ und zwar sind es folgende:
+
+fiir Magnet Β4
+
+10g H Ξ eus-23 -}10g sin φ -10g T÷ 4.9 (1,, -1φ)- (167 tq, ÷
+(920 - η) -- 228 (H - O.15‹5);
+und fiir Magnet RS.
+
+log H = 956631 — ὲ log sin φ - log T -4- 5.ss (Cr - ίῳ) - 0.(37 ίῳ -1-
+.(9'.0 — η) - 166 (Η- 0156),
+
+wo ich nur die formelle Aenderung eingeft'ihrt habe, H in O. G. S.
+Einheiten zu rechnen und durch T die Zeit einer Schwingung zu be-
+zeichnen anstatt hundert derselben. Will man direct 209 H auf die Nor-
+malintensitat reduciren, was vorzuziehen ist, so muss beiden Gleiohungen
+noch das Korrektionsglied
+
+— Mo d . ⁸531 (72 — η)1 = — 550 (η’ -11)15
+
+hinzugefiigt werden, wo (n -η)15 den mittleren Stand bei Schwingungen
+und Ablenkungen bezeichnet. Die Korrektionen sind in Einheiten der
+ffinften Decimalstelle des Logarithmus angegeben. Es bezeichnet η die
+Torsion in Minuten fiir 360⁰ Drehung bein] Sohwingungsapparate. Eigent-
+lioh ware wohl nunmehr ffir das Induktionsglied ein anderer und zwar
+heherer Werth zu setzen. Denn nach LAMONTS Definition ist der Induk-
+tionskoefficfient, κ, das Verhaltniss des im Stahle durch eine Feld eins
+indueierten Momentes‚ μ, zu dem Momente des Magnetes, somit:
+
+²:31⁷
+
+woraus folgt:
+Alogz = - Alog M.
+

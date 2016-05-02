@@ -1,0 +1,58 @@
+Mommcmnm LLOYDSCHE WAGE. 3
+
+ermittelt wurde, dass das Beobachtungszimmer abwechselnd erwarmt und
+
+abgekfihlt wurde, diese Korrektion bald positiV‚ bald negativ ausfiel und
+
+dabei einen 50 betriichtlichen numerischen Betrag wie 1714 Skalateile fiir
+1⁰ Fahrenheit heim Werthe 0004114 O. G. S. eines Skalateiles erlangen
+konnte¹). Die genannten Umstfinde haben mich bewogen7 zu der auf
+
+Achat-scheiben ruhenden Stahlaxe zuriickzukehren und dabei dem In-
+
+strumente eine solche Konstruktion zu geben, dass die Reibung 1n6glicl1st
+
+gering und die Temperaturkorrektion genau zu bestimmen sein wtirden.
+Es scien:
+
+ΗΞ die Horizontalintensitfit des Erdmagnetismus,
+
+H¹= die auf die Schneide senkrechte Komposante von H,
+
+V: die Vertikalintensitam
+
+μ = das magnetisehe Moment der Wage,
+
+P= die Schwere2) des beweglichen Systems,
+
+a und b = die Koordinaten des Schwerpunkts in der auf die Schneide
+senkrechte Ebene, mit Origo im Schnittpunkte3 ae-Axe die mag-
+netisohe Axe des Magnete,
+
+θ-- der Winkel der magnetischen Axe mit dem Horizonte.
+
+Ohne Reibung wird dam] die Gleichgewichtsbedingung sein:
+
+(1) μ17005θ = μΗ1 5111 θ 4- P(a00s θ -1- ὁείῃθ)
+
+Der Einfluss der Reibung wird sich nun darin ἑὶ11556111, dass die
+Reaktionskraft der Achatscheiben‚ welche P entgegengesetzt gleich ist,
+um eine kleine Strecke σ von der Rotationsaxe entfernt sein kann, was
+einen Maximalfehler ᾗ <W in der Bestimmung von V veru1·sacht‚ gegeben
+durch die Gleichung:
+
+ffl(V-}-‹5V)cos19 :chlsinffJ-f. P(acos19÷bsin29÷o>.
+
+l) R. v. TRAUTVETPER: Die magnetischen Beobachtungen am physikalischen
+Central-Observatorium zu St. Petersburg in den Jahren 1870—1577. Wilds Reper-
+‘corium fiir Meteorologie. Band VII, 1881.
+
+2) Man 1111155, scheint es mir, nunmehr einen genaueu Uuterschied zwischen
+der Sehwere und dem Gewicht eines kbrpers macheu, wobei dam] die Schwere eines
+Kbrpers zu definieren ist als die Krast, mit der die Erde bei gegebener Lage den
+Kbrper anzieht. Vielfach wird auch nach Einfiihrung des C. G. S.-Systems das WVort
+Gewicht in derselben Bedeutung angexvandt3 dies kann aber leieht Missve1·st{indnisse
+verursachen, da ja doch wohl auch in Zukunft in der Industrie (las Gewicht einos
+Kbrpers die von demselben vorhandene Menge (in Gran), Kilogram, etc), d. i. dessen
+Masse bezeichnen wird.
+

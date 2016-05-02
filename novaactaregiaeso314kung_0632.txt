@@ -1,0 +1,60 @@
+4 E. Samma,
+
+Horizontalvariometer mit 62029‘ Ablenkungswinkel aufstelste, vergleichende
+Ablesungen am Variometer maehte und die um Deklinationsvariationen
+korrigierten Ablesungen v des Theodolits als Funktion der Variation
+(η’ —n)15 und der Temperatur berechnete.
+
+Aus 30 Vergleichsbeobachtungen bekam ich in dieser Weise die
+Formel:
+
+v = 84042'.76 -ι- O.692 (η’ - n - 149.25> ÷ 136 (t - 9⁰21).
+
+Der Temperaturkoefficient‚ α, ergiebt sich nunmehr aus:
+
+ 
+
+zu O-000150. Stellt man diesen Wert mit dem aus den Ablenkungsbeob-
+aehtungen bereehneten zusammen, so wird im Mittel α = O 000157. Als
+definitive Korrektionsgleichungen erhalt- man alsdann:
+
+A„ log sin φ = 10-‘³ . 924 (t — 15)
+
+Mod
+
+AthgT= — 2
+
+(α ÷ 22>st - 15) Ξ -10-⁶.38.9(t- 15) ,
+
+ 
+
+wo s der Ausdehnungskoeffieient des Stahls ist. Bei Schwingungen mit
+Belastung erleidet die letztere Korrektion eine Anderung‚ η, die folgender-
+massen gefunden wird. Bezeichnet K das Tragheitsmoment des Magnete
+(mit Aufhaugevorriehtung), R das der Belastung‚ T, die Sehwingungs-
+dauer des belasteten MagnetS‚ γ und γι Torsionskoefficienten bei unbe-
+lastetem, bezw, belastetem Stabe‚ so ist:
+
+MH0÷ffw=fiff‚
+MH0÷½fiffff{‡ffi‚
+ι
+
+ 
+
+und effluit, wenu nach der Temperatur variiert wird:
+
+ὸῃΜ b ‹5T - &carme — A· 5)ss R δῇ
+
+Μ 42 1¹1²- 12⁷4-ss *114st ' A ÷1<÷R'R''
+folglich:
+
+ 
+
+M od
+
+AthgT1=— Z
+
+oew÷2ss—mm÷fflst—dm‚
+
+ 
+

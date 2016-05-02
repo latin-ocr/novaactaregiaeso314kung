@@ -1,0 +1,57 @@
+38 AXEL SbDERBLOM,
+
+οὺ
+
+ 
+
+02=k292‚ ........ ,e3=-- .......
+
+L'equation (6) est la formule qui donne la valeur cherohee de
+a: = αἳ , si l’on y introduit une valeus approximee de m dans le membre
+droit. — Comme par d’autres methodos cl'approximation‚ 011 obtient un
+nouvel ehiffre decimal exact, chaque fois que l’on emploie la formul'e (6).
+Le plus simple est d’employer pom· premiere valeur approximee de :e
+
+La methode est tres commode, quand a est grand, ou les coeffi-
+
+cients c sont petits.
+D'un autre οόῖό, la methode est aussi tres avantageuse parce que,
+
+en qualite de methode d'approximation pure, elle n'exige pas un caloul
+
+sans defaut au commencement du caloul, la valeur du depart ὲ etant tout
+
+ἐι fait arbitraire.
+
+Applieations <les deust· me'tlzodes.
+
+1⁰ Calculet par ἰα metlzocle cle M.W1‹31ERSTRASS la valem- (Ie L'inte'-
+
+qrale cle LfiGENDRE ¹) F(c‚q)= soz ψ ἡ -ητῇζ a 0¹¹
+
+ 
+
+c = sin 75⁰.- - γρ 4 γὲ) ty qs Ξ {ss} .
+
+ 
+
+En substituant dans cette integr-lle 32⁶7ch = z, on obtient
+
+-sffl -—2
+
+255
+
+ 
+
+  
+
+et en comparant cette integrale a 2)
+
+[ὼω αωω) 7 :u
+ψμ-ω-ωῇωω-ωψωῇωὶ
+
+ 
+
+1) Voir: LfiGENDRE Trait6 de Fonct. Ε11. I, p. 91, 92.
+2) Voir: SCHWARZ p. 29.
+

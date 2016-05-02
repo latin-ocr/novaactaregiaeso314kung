@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso314kung_0553.png"; bbox 0 0 2267 3068; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 147 669 1729 771">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 147 669 1729 771">
+     <span class='ocr_line' id='line_1_1' title="bbox 147 669 1729 771; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 147 689 305 770; x_wconf 84' lang='lat' dir='ltr'><strong>DIE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 368 688 1028 771; x_wconf 72' lang='lat' dir='ltr'><strong>MAGNETISOHE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1093 669 1729 769; x_wconf 77' lang='lat' dir='ltr'><strong>INKLINATION</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 430 906 1448 962">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 430 906 1448 962">
+     <span class='ocr_line' id='line_1_2' title="bbox 430 906 1448 962; baseline -0.002 -1"><span class='ocrx_word' id='word_1_4' title='bbox 430 908 504 962; x_wconf 88' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 543 906 812 961; x_wconf 78' lang='lat' dir='ltr'><strong>UPSALA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 853 908 993 962; x_wconf 89' lang='lat' dir='ltr'><strong>UND</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1037 906 1448 961; x_wconf 73' lang='lat' dir='ltr'><strong>STOCKHOLM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 711 1504 1168 1546">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 711 1504 1168 1546">
+     <span class='ocr_line' id='line_1_3' title="bbox 711 1504 1168 1546; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 711 1507 761 1546; x_wconf 82' lang='lat' dir='ltr'><strong>E.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 793 1504 1168 1545; x_wconf 82' lang='lat' dir='ltr'><strong>SOLANDER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 581 2536 1304 2653">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 581 2536 1304 2653">
+     <span class='ocr_line' id='line_1_4' title="bbox 778 2536 1104 2569; baseline -0.006 -4"><span class='ocrx_word' id='word_1_10' title='bbox 778 2536 1104 2569; x_wconf 75' lang='lat' dir='ltr'><strong>UPSALA,1889‚</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 581 2591 1304 2614; baseline -0.004 -3"><span class='ocrx_word' id='word_1_11' title='bbox 581 2593 680 2611; x_wconf 75' lang='lat' dir='ltr'>DRUCK</span> <span class='ocrx_word' id='word_1_12' title='bbox 702 2593 761 2611; x_wconf 73' lang='lat' dir='ltr'><strong>DER</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 782 2592 1019 2610; x_wconf 70' lang='lat' dir='ltr'>AKADEMISCHEN</span> <span class='ocrx_word' id='word_1_14' title='bbox 1040 2591 1221 2610; x_wconf 76' lang='lat' dir='ltr'><strong>BUCHDRUCK</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1227 2591 1304 2614; x_wconf 72' lang='lat' dir='ltr'>EEEEE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 830 2634 1057 2653; baseline 0 -1"><span class='ocrx_word' id='word_1_16' title='bbox 830 2634 1057 2653; x_wconf 72' lang='lat' dir='ltr'>EEEEEEEEEEEE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

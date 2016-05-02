@@ -1,0 +1,51 @@
+RECHEROHES sna LES VALl-:URS MOYENNES ΜΝΞ LA Tffl'zomE DEs NOMBRES. 13
+oh - 1 < ρ < 1 ., (Γοὺ l'on tire
+
+(M) ,Μ-Ιψθμοψωερᾶῖῒῶἶξζζ,
+et des &quations (43), (44), (47) nous obtiendrons les deux expressions
+suivantes du reste R:
+
+ 
+
+ 
+
+Ι) η ”“’“” θ“”’” 4⁶¹²
+(43) 3⁷² ² ‘¹ ( <T 361116 “ 1 . 2 ..... n
+et
+(49) R„ — ρ (b -}- 72)“†‘¹e-'²j'j ο (1 - (νγ-Ἤ .
+<1-0.42)b†¹² 1.2.3...(n-1)
+
+En y appliquant la formule
+ltin] (l -}- ἐγ == σὺ
+
+et l'e‘zgalit& suiv-ante, dsduite de l'e‘quation (33),
+
+Ξ
+
+l. 2 . 3 . . . . n = e¹÷⁸<⁰’¹)n'¹e”'⁸n³²e⁷²‚
+
+nous obtiendrons des &quations (48) et (49) les formules
+
+b-¹
+
+ 
+
+ 
+
+(50) R„ Ξ 21⁷2 Ὦ jez) ,
+<51> Ru = Μᾞ-(ῑζῑῖ ‚
+
+οἰι les quantiffis λ1 et 222 sont finies pour tontes les valeurs du nombre n.
+Nous distinguerons maintenant les deux cas suivants:
+
+1) Pour Ο gx < 1 la quantit&
+
+ρι’-θῶ
+1-θ.ι·
+
+ 
+
+est une fraction propre⁷ et nous obtiendrons de l'squation (51)
+
+(52) lim R„ = Ο .
+

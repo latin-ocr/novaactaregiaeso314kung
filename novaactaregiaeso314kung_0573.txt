@@ -1,0 +1,42 @@
+UEBER DEN EINFLUSS DER FADENTORSION ΒΕΙ MAGNETISCHEN
+ABLENKUN‹J}SV}÷]RSUCHEN.
+
+So weit mir bekannt ist, wird bis jetzt der Einfiuss der Torsion
+bei Deviationsbeobaehtungen immer vernae-hstissigt, wenigstens wenn sie
+nach dem Lamontsehen, oder damit- verwandten Verfahren angestellt
+werdenj in LAMONTS Handbueh des Erdmagnetismus findet sich sogar in
+einer Note die Behauptung, dass die Torsion auf das Endresultat gar
+keinen Einfluss ausiibt. Dass dem nieht so ist, wird die folgende Darle-
+gung zeigen; ungfinstigsten Falles kann im Gegentheil die Vernachlssis-
+Sigung desselben erhebliehe Fehler verursachen.
+
+Es megen die folgenden Bezeichnungen angewandt werden:
+
+H= die Horizontalintensitiit des Erdmagnetismus,
+M: magnetisches Moment des Ablenkungsmagnets,
+
+μ = )) )) der Nadel,
+
+e = der Abstand zwisehen Nadel und Ablenkungsmagnet,
+
+lc = die Lamontsehe Constante,
+
+f: das Torsionsmoment des Aufhz'ingefadens fiir 1⁰ Drehung‚
+
+v = die Drehung (in Graden) des oberen Endes des Fadens, relativ zum
+unteren Ende,
+
+α = die dadurch enstandene Abweichung der Nadel vom Meridian,
+
+φ1 = die Ablenkung der Nadel, wenn sie in der Richtung von α durch
+den Magnet abgelenkt wird,
+
+<p2 = die Ablenkung der Nadel, wenn der Mag-net in die entgegengesetzte
+Riehtung wirkt,
+
+φ = lfz (φι “f- ‘F2)3
+
+(p¹ und ‹p2 beide vom scheinbaren Meridiane ab nach beiden Seiten hin
+gerecehnet.
+Nova Aeta Reg. Soc. Sc. Ups. Ser. 111. 1
+

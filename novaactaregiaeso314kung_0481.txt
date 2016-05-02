@@ -1,0 +1,52 @@
+DE LA CONVERGENCE DU DEVELOPPEM. ANALYT. DE LA FONCT. 1z1„1„p(u)ot0. 23
+
+ayant le 11161116 espace de couvergeuce que (l)7 donne aussi 11116 valom-
+
+166116 (16 μ’(ιι). -- 1)’;ῑί116111·6, 6011111162) chaque. der-ivea d'ordre pair (16
+2111
+1)(ιι) 661 11116 fonction eutibre (16 1)(11), ᾸΙἮΙῘέςΠᾼᾈ = ls]‚,1.{st(s‘f)}‚ 011 a
+s ΗΛ
+. (Z²'''÷¹p(u) F. Ι 1 'V . . . .
+aussi W = e211-1l’(‘⁶)1 .]1(ιι>. - Α11161, 10116 166 6061116161116 (16
+
+(2) 60111 16616, 10111 comme 166 (11131111166 (ιι — a) , (1ι-- (0², . . . ; et ainsi
+de 611116.
+
+Soit lc 1111 point sur l’axe 11061111ἱ (166 arguments bimzfsl'izrzz'r‘es, et
+qu'il soit 611 dedans de l'espace de eonvergenee du developpemeut (1)
+
+de 2)(1ι). Alors
+
+ 
+
+ 
+
+μω , sc> = put> ψ ἶ '⁶ mae> ÷ K‘Llss ξ) m> ÷ . . .
+
+Les fonctions [)(Ιι·) ,])”(Ιι·>, . . etant paz'1·e.s·, les valeurs 611 sont refelles.
+Les fonctions ρ’(Ιε) , p“‘(lt·), .. etant impaires, leurs valeurs 60111 ίιηαιιχὶ-
+maio-es. — Aiusi7 611 substituant, daus 16 dernier developpemeiit, 11116 va-
+leur imaginaire de ιι, la valeur de [1(1ι,[ι·) sera 166116. Car une puis-
+631166 paire de (zo—lc) 661 166116 61 66 multiplie par une 1“()116110111(ῗ·,6116;
+. une puissance imp-<lire de (Γιι-Ιῷ <etant imaginaire est 11111111111166 par 11116
+fonction 11116ἕ11131167 (16 sorte que chaque terme du developpement de
+p(u ⁷ lc) est 1661.
+
+En substituant, (13116 66 developpement de p(u 7 lu), (ιι - l) -1- l pour
+u, 011 ί 661 imaginaire, ΙΖΙ>ΙΙεΙ., et l est 611116 611 dedans du cerole (16
+eonvergence de 13 serie de p (u ‚ Ar), on aura un 1101616616 (16161061161116111
+- (16 2) (ιι) , 1)(ιι , lc ‚ l), en forme d‘une 66116 0111011666 suivant les puis-
+sances (16 (ιι- l), dont 166 termes sont exactement de 13 11161116 nature
+que ceux de 13 serie de p(u , lc); et ainsi de suite, tant qu'il 6011 pos-
+sible de faire des transformations analytiques des developpements dcfij&
+obtenus de 13 fonction p(u>; 66 qui est d⁷une grande impert-<moe pour
+16 6316111 pratique.
+
+Que α soit un argument en dedans de l'espace de couvergence
+du developpement (1) de ])(ιι). Que b soit la valeur de 13 fonction p(a),
+de sorte que
+
+b =p(a> .
+
+1) Voir: SCHWARZ p. 12.
+

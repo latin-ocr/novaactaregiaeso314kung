@@ -1,0 +1,46 @@
+RECHERCHES SUR LES VALEURS MOYENNES DANS LA THssORIE DES NOMBRES. 43
+
+Soit f1 (m) une fonction bien (Mterminssso pour tontes las valeurs
+entibres positives du nombre m, et supposmffl, que f1(l)¹¹e soit pas nul,
+on pourra &videmme-nt d‹'¹te1·miner une fonction f2(m)‚ qui a la pro-
+
+ρτίόῒό, que
+(173) Σ f1((l)f2(d¹) = 1 pour lv = 1 ‚
+11111 :k
+
+= O 120111·k>1 ;
+
+en effet‚ pour la dfflermination des valemus de la fonction ⁴f2<m> pom·
+m = l ., 2 , 3 ‚ . . . .‚ nous aul-ons los &quations
+
+s'1<1>f2<1> =1 2
+
+f1<1>f2<2>÷s'1<2>s2(1> = 0 ,
+
+.s‘1<1>f2(3> ÷s1<3>f2<1> = 0 2
+
+f1<1>f2<4) ÷f1(2>f2 (2) ÷s1<4>s12<1> = Ο ,
+.ᾒο)ὢῶ>ψίάῶῂ<θεεο,
+
+.ΐῖ<1)]ὲ(6> 4-J3(2)s}<3> 4-J3(3>J}(2) 4-si(ss>s}(l)2= 0 2
+
+d’oh l'on tire
+
+s}(1)== W 1
+
+ 
+
+s4<1)⁷ ³
+f2(2) = - ξ’]-ὧᾈ ,
+f2<3> Ξ - έιῖξέᾈζ 7
+κς (4) = &ss -5f1QaQ ‚
+‘ f1<1>⁶
+f2 (5) Ξ ψ ...ἓξὲξ ⁷
+
+ffiffi)=2fiOENKQ—sffnffiffi>’
+’ “ ,nm-¹
+
+....................
+
+ 
+

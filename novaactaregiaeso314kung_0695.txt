@@ -1,0 +1,40 @@
+DEDUCTION Dus PROPROETES Pammfflffls DE LA FONc'rlON ete. 33
+
+οὺ les coefficients Αυ. A, . . . A„ et A„ B„ . . . B„ dsspenden‘t. de ao,
+a, . . . a„ et des coefficieuts de substitution β et γ. Cela pose, nous
+&tablissons la dssfinition suivante.
+
+Soit
+
+f(.1;) = (lo-1³¹ -ξ- - (qast-¹ ἦ. 7-1-7)
+
+une fonction entibre, dont le degn} est au plus &gal ἐι η, et supposons,
+que par les substitutions
+
+2¹· Ξ (39 47 η -1f= ᾗ
+cette fonction se transforme en
+fffly÷7>= Aozs ÷⁷ - 4 11-¹÷¹⁴('² ‘01² 421 ff²÷-··÷⁷1—²A„-2;v÷A„
+et en
+f(s})= 1-3) ομ ÷}B1y”- ¹÷ ⁷3⁷3& B2y'‘-²÷---÷PB‚2-1y÷ssn ;
+vs β’* ,ψ l . ..1 1
+
+s’il y a une fonction entffim homogkne
+H(a<„a,‚a2,...a„)
+
+des coeffioients a„ a a1 ‚ (12 , . . . a„, qui satisfait aux &galiffis
+
+Η(Αυ ‚ A, ‚ . . . A„) =1'>'¹‘H((10 , αι , . . . (ιη)
+et
+
+H(B0 ⁷ B¹ , . . . ΒΗ) :1''3'⁶H((1„ ‚ α1 ‚ . . . au) 7
+w &tant un nombre entier⁷ I'expression
+H(as‚ a ‚. . . απ)
+
+est dite invariant de la fonction f(oe).
+Cela fflabli, nous montrerons l’existvence d'iuvariants de la fonction
+entibre
+
+(184) er) = αυατ4 -1- 4a1.1·³ 4- 6 [22³³ -4- 4a31z³ -f- α4 ‚
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111
+

@@ -1,0 +1,46 @@
+48 N. C. DUNizR,
+
+Le 0310111 (10 cette table 3 ete considerablenient abrege‚ »Siren
+etant egal 3 δίη (180⁰ —71)‚ et les valeurs de Sin (ei—Q) ‚
+Sin [180⁰ -- (Θ — 52>] 7 Sin [180⁰ -1- (Ε) .- ῼ)] et Sin [360⁰ — (Θ - [2)]
+etant les memes saus les signes.
+
+A 13 rigueur, il faudrait encore prendre en consideration que la
+ligne TM n’est pas perpendiculaire au plan AB. Mais la difference ne
+pouvant s’elever qu'a 16¹ au plus, 011 peut la negliges.
+
+Outre ces corrections, il y en 3 encore une qu'il faut appliquer
+si l³on veut atteindre l'exactitude la plus grande possible. C'est qu’en
+faisant les pointes sur les raies spectrales, il est impossible, 3 11101110 (10
+perdre beaucoup en exactitude, de faire co'1'ncider le bord du 801011 et
+par consequent celui de 13 bande spectrale avec une des croix des fils
+du micrornetre. Par consequent, le point observ& se trouve 3 une cer-
+taine distance du bord solaire, de sorte qu’une bande spectrale d‘une
+largeur de 3'l {t δ” 00 forme entre la croix et le bord solaire. Certes,
+on pourrait placer 13 fente tangentiellement, et ainsi rapprocher la croix
+des fils beaucoup plus du bord solaire; mais 011 0311 que sous ces cir-
+constances le spectre devient inst-able, flamboyant, ce qui nuit a 13 pre-
+cision des observations, et si l'on voulait eviter cet inconvenient 011 fai-
+sant cntrer 13 ferite un peu plus sur le disque du soleil, on perdrait
+totalement 13 possibilite de determiner 13 distance entre le bord solaire
+et le point qu’on observe. Il se pourrait meme qu’une irregularite acciden-
+telle dans 13 marche de l’horloge de l'equatorial psit occasionner de tres
+graves erreurs. Je crois donc plus prudent de diriger la sente de ma-
+111010 a couper 10 bord du 801011 sous un angle plus ou moins aigu. Alors
+on peut evaluer avec une assez grande exactitude, a l'aide des dimen-
+sions connues du rhombe forme par les fils, la largeur de 13 bande
+spectrale intermediaire que je viens de mentionner‚ et puis calculer 13
+correction 3 appliquer, 3 1’31(10 des formules que je vais maintenant de-
+velopper. ,
+
+- Soit (Fig. 6) AMBCD le bord visible du disque 0013110, S son
+0011110, et M le point ou le deplacement des raies spect-rales doit etre
+mesure. 8011 ΜΝ 13 direction de 13 fente dont nous rnettons l'angle (10
+position egal a S, et soit enfin ME 13 tangente en M. Alors on 3
+
+ASM = SMO = P ; SMN = P—cp , et erIE = 90Ο — (P— φ) .
+
+8010111 SS et S'S' (Fig. 7) les deux tranches de 13 sente, et ΒΚ
+son niilieu3 soit A· la croix des fils. HE 13 limite superieure du spec-tre,
+et HC le bord solaire, et mettons:
+

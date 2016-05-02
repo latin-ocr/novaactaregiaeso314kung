@@ -1,0 +1,62 @@
+8 Axur SoDERBLmu,
+
+on voit de la fol-mule (5), que, dans 66 eas,
+
+νωυεγωωμε-ῳω)
+OU
+
+(a) ω3 = ω .
+
+Α101’8, 16 parallelogrannne des periodes etant un carre, et les 0011-
+011110118 (3) et (4) etant satisfaites‚ la serie (1) suffit bien pour 16 0610111
+direct de la valeur de la fonction 220⁶), quelque grande que soit la va-
+leur de l'argument u — mais reduite 611 la valeur de l'argument corre-
+spondant du premier quart du carre (168 periodes. —
+
+Le calcu] des periodes 2w et 2w' etant ordinairement fort penible,
+il nous reste a chercher 168 relations entre 168 ooeffioients 372 et 9³ Qui-
+valentes aux conditions (ὅ) 61 (4), pour savoir (Μὶν-(11106, 81 la serie (1)
+suffit pour la calcu} de la valeur de la fonction p(u)‚ ou s’il faut en
+faire une transformation analytique.
+
+Pour trouver de la maniere la plus Commode les relations entre
+les coefficients 92 et 9³⁷ equivalentes aux conditions (3) 61 (4), 11 faut
+employer celles des formules de la theorie (168 fonctions elliptiques de
+M. WEIERSTRASS qui 116111 16 plus directement 168 periodes 2ω 61 2ω’
+aux coeffioients 92 et 9³·
+
+D'abord, 011 a ¹)
+
+ω3
+ω) -ε-ῆ”-6-
+- “- ιιι,Ἢ ⁰
+-π
+
+CH)
+
+Parce que, 611 vertu de la condition (4), Q<27 d'ou ets—5⁷³
+(1)
+
+Ἣ, 1 l
+
+<e , 011 ,Ἰ ἰῇ, 11 faut que
+ππ
+
+ 
+
+e
+
+1
+
+327?
+
+(7) lz >
+
+ 
+
+pour que la serie (l) soit convergente pour u Ξ ω’.
+
+ 
+
+1) Voir: SCHWARZ p. 42.
+

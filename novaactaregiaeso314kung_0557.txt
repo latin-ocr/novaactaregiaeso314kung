@@ -1,0 +1,50 @@
+DIE MAGNETJSCHE INKIANA'HON IN Ul‘sALA UND STOCKHOLM. 3
+
+wo z'¹ ={(z'1 4222) zur Abkfirzung gesetzt ist. Im allgemeinen ist man
+wohl geneigt, dergleichen Extrameridian-Bestimmungen, der grijssereu
+Zahl der Ablesungen halber, ein g1·6sse1·es Gewicht beizulegem verschie-
+dene Umstssinde beeintriichtigen aber die Genauigkeit des Resultats. Neh-
+men wir deu einfachen Fall (2), so folgt zuniichst durch variationz
+
+δι’ — 5 <W
+sin 22' — V* sin Ψ
+oder. da nach (2)
+2 2 sin 'z'
+
+Sin²5¹=;--*ff⁷ff.,.=· Ι ,7
+2 -ἢ- cot ἰ l -μ sm *a
+
+ὃ. 1÷sin²i >⁸⁴¹
+z: .‹1 .
+
+jv}
+Setzt mann hier i: 70052', so folgt
+aa· Ξ 1 . 34 δί’ ,
+
+so dass ein Fehler bei der Bestimmung von 7T¹‚ in z'nioh‘s. unbetriichtlich
+vergrbssert auftritt. Um weiter zu seben, um wieviel eine fehlerhafte
+Einstellung des Horizontalkreises die Bestimmung afficirt, variire man
+
+die Gleichung
+
+cos α cot ἰ’ = cot il .
+wo α das Azimuth bezeichnet, nach α und il ‚ woraus sich ergiebt,
+
+cot i sin α δα = 1 „0⁶ss ‚
+sm z,
+
+V
+
+Setzt man hier α = 450 und somit il = ὓς folglioh
+
+. 2. 2 sin ²i
+sm ιι = 1-1- sin ῖι ’
+
+ 
+
+so bekommt man
+
+und fiir i: 70052'
+
+δι’, = O . 23 δα .
+

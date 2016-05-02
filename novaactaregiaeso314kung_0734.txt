@@ -1,0 +1,45 @@
+20 N. O. Dama,
+
+parabolique aussi pres que possible des poirits ainsi dessines. Par des
+mesures sur cette eourbe, j'ai obtenu des valeurs interpolees pour O‚l etc.
+Puis, j'ai divise tous ees nombres par celui qui est valable pour 20‚0 et
+enfin, j'ai interpole au milieu. En partant du nombre valable pour 20,0
+qui naturellement est 20,0000, j'ai⁷ des deux Oetes, soustrait resp. addi-
+tionne les valeurs trouvees‚ et apres avoir soustrait les nombres entiers
+(O jusqu& 40) j'ai trouve la suivante
+
+Table des erreurs progressives de la vis en 1887.
+
+Lectztre (sorr. Lecton-e (forr.
+0¹20 — 4 21‚o -- 1
+1‚0 - 18 22‚0 - 3
+2‚0 - 30 ²3⁵0 — 7
+3‚0 - 39 24,0 — 12
+410 — 46 25,0 — 20
+5‚0 — 52 26,0 - ²9
+6,0 — 54 27‚0 — 40
+7‚0 - 55 ²8›0 - 53
+S‚0 — 54 29‚0 - 68
+φρ - 52 30,0 — 85
+1070 — 48 31‚0 - 103
+11‚0 — 43 3²⁵0 - 124
+12,0 — 36 33‚0 - 146
+
+, ι3,ο - 30 34,0 — 171
+14,0 ”“ 23 3510 -· 193
+15,0 - 17 36‚0 — 227
+16‚0 — 11 37‚0 — 258
+17,0 — 6 38,0 - 29¹
+18‚0 - 3 39‚0 - 326
+19‚0 - 1 40‚0 - 365
+2050 ο
+
+C'est en eombinant ees corrections avec la valeur 2,0894 ὲ 20‘‚0
+que j'ai obtenu les valeurs ealeulees de la plus petite diagonale du
+rhombe forme par les fils du mierometre.
+
+En repetant, en 1888, cette meme recherche, j'ai mesum-⁴2, au lieu
+du diametre du rhombe forme par les fils du mieromffire, le esste d’un
+petit reseau traee sur glaee. En faisant les mesures de la maniere dejss
+expliquee‚ j'ai obtenu les valeurs suivantes:
+

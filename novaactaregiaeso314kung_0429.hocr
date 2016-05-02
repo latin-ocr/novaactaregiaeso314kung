@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso314kung_0429.png"; bbox 0 0 2267 3068; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1632 205 1788 232">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1632 205 1788 232">
+     <span class='ocr_line' id='line_1_1' title="bbox 1632 205 1788 232; baseline -0.006 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1632 206 1686 232; x_wconf 73' lang='lat' dir='ltr'><strong>Pl.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1714 205 1788 231; x_wconf 86' lang='lat' dir='ltr'><em>III.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1593 258 1855 341">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1593 258 1855 341">
+     <span class='ocr_line' id='line_1_2' title="bbox 1595 258 1855 298; baseline -0.004 -9"><span class='ocrx_word' id='word_1_3' title='bbox 1595 258 1855 298; x_wconf 71' lang='lat' dir='ltr'><em>Doryeephalus.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1593 310 1758 341; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 1593 310 1758 341; x_wconf 70' lang='lat' dir='ltr'><strong><em>Streetsz‘a.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 769 1284 1174 1329">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 769 1284 1174 1329">
+     <span class='ocr_line' id='line_1_4' title="bbox 769 1284 1174 1329; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 769 1284 1024 1329; x_wconf 73' lang='lat' dir='ltr'><strong>PLATE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1075 1285 1174 1329; x_wconf 89' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 332 1401 1626 1510">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 332 1401 1626 1510">
+     <span class='ocr_line' id='line_1_5' title="bbox 332 1401 1626 1454; baseline -0.003 -11"><span class='ocrx_word' id='word_1_7' title='bbox 332 1403 598 1454; x_wconf 77' lang='lat' dir='ltr'>Dorycephalus</span> <span class='ocrx_word' id='word_1_8' title='bbox 625 1403 877 1450; x_wconf 76' lang='lat' dir='ltr'>Lindstroemi‚</span> <span class='ocrx_word' id='word_1_9' title='bbox 906 1403 1079 1442; x_wconf 74' lang='lat' dir='ltr'><strong>Streetsia</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1107 1402 1340 1453; x_wconf 78' lang='lat' dir='ltr'><strong>steenstrupi‚</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1369 1402 1401 1440; x_wconf 90' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1429 1401 1626 1451; x_wconf 77' lang='lat' dir='ltr'>pronoides,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 811 1471 1150 1510; baseline -0.003 0"><span class='ocrx_word' id='word_1_13' title='bbox 811 1472 882 1510; x_wconf 83' lang='lat' dir='ltr'><strong>and</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 911 1471 943 1510; x_wconf 89' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 973 1471 1150 1510; x_wconf 67' lang='lat' dir='ltr'><strong>carinam.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

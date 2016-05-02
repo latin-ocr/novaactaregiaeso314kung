@@ -1,0 +1,45 @@
+2 E. SOLANDER‚
+
+Wir setzen vorans, dass die magnetisehe Axe des.Ablenkungsmag—
+nets verfflngert die Nadel senkrecht in der Mitte schneidet. Bei der
+Aufstellung der G]eichgewichtsbedingungen muss beachtet werden. dass
+die beiden Enden des Fadens bei jeder Einstellung dieselbe relative Lage
+
+haber{jann ergeben sich leioht folgende Gleiohungen:
+
+(l) μ Η sin α = f, v,
+(2) μ H sin (φ1 -Ι, α) Ξ Ξζυὲμῑιῖέ ·†-f·v Ἰ
+(3) μ Η 8111(φῖ - α) Ξὲθέζρί —fv .
+
+Zieht man (3) von (2) ab, so erhfflt¹ man:
+
+μ Hsin (φῖ ΞᾸΓΞ -†- a) cos φ :fv ‚
+
+fl
+
+somit unter Zuhiilfenahme von (1):
+
+sin (ῗῐέᾖ -ff- α) eosq> = sina ‚
+
+ 
+
+und also:
+008 (vu —222 ÷ α) 2 Vl 512³} Ξ 1 - ψ {1¹33
+2 cos²w ² oos²<p ⁹
+' 2
+wenn hehere Potenzen von ἓξὲξ verna0111555igt werden.
+
+Ferner ergiebt die Addiffion von (2) und (3) ⁷
+
+u H sin φ eos (fist—{22- -4- a) = QZAE,
+und somit:
+(4) Hsin φ (1 - ¹s2 siffis) Ξ &As ,
+cos <p e
+
+Will man die somit nothwendige Korrektion wegen Drehung aus
+dem Meridian als Verbesserung bei φ anbringen, so hat man, wenn (po
+den verbesserten Ablenkungswinkel bezeichnet, zu setzen:
+
+. . sin²a
+sm (Po = sm φ (1 — ¹s2 Ο-Οὲτᾳ)
+

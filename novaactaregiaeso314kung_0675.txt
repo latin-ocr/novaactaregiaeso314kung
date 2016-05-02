@@ -1,0 +1,81 @@
+13ssoucw1ox DES PROPRIssTES PnlN01PALEs DE LA FONCTloN ete. 13
+
+   
+   
+   
+   
+    
+    
+   
+   
+  
+   
+   
+
+En remplagant u par v1 -4- 1⁷2 — u dans l’equation (81), on eu deduira
+
+60⁶— u2)‹5(‘--tc u )
+σ(ιι - 1·2)0(u- ²²1>
+
+⁴ (82) ([κυ1 4- 2⁷2 »- u)— -
+. et des equations (81) et (82) on tile
+
+’βω πψψω-ωεᾳωγ
+
+¹ lee'oreme IL* En cldsiynant par ‹p(u) une fonction elliptique qzcelconque
+du second ordre ayant les infimis V„ v2‚ on aava
+
+wm÷½—m=vffl-
+
+Dans le cas, οἲι φ(ιι) a l’infini double vl, cette formule peut s’ecrire
+
+βω ᾳθη-ωεφω.
+
+Soit maintenant P un parallelogramme des periodes quelconque,
+Α et designons par v¹ et υ, les infimis de (1³0⁶), situes dans le parallelo-
+„ gramme P. Distinguons les deux eas suivants.
+
+⁴l) Si la fonction ‹p(u) a les deux infimis simples vl, v2‚ on peut,
+ἶ d{apres un theoreme connu, mettre cette fonction sous la forme
+
+A B
+
+Ἰ(85) πωε ÷uffl
+
+ 
+
+ 
+
+u-ffi z½÷mw‚
+οὺ Α et B designent des constantes finies differentes de zero⁷ et 01⁸1
+χ(ῑι) desig-ne une fonction, qui est finie dans le parallelogramme P; par
+suite χ(υ) et 20⁴2) serent des qu 1nt1tes finies En remplaqant u pal
+v2÷v —u dans l’equation (85) et en y appliquant la formule (83), nous
+en obtiendrons
+
+oeffl fflw2— B Α
+
+ 
+
+ 
+
+-Ι-Ζ(ῑί -1- v2—u) a
+
+u'- v, u -- υ2
+et des equatious (85) et (86) on tire par soustraction
+
+1 -Ι- 1
+
+u -- v¹ u —22
+
+*oew <A÷ffl( —)= Λωψω-ω- Am
+
+ 
+
+ 
+
+Le second membre de cette &quation etant fini pour u=v¹ et
+u=v2‚ il faut, que
+
+zoeffl A÷B=0,
+

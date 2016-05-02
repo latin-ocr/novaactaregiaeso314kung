@@ -1,0 +1,51 @@
+ΕῙΝΕ METHODE zUR BERECHNUNG mss INTEGRALS ete. 11
+
+Wir wollen nun die Grenzen des durch die Gleiohung (6) be-
+stimmten Funktionszweiges ζ, aufsuehen. Wz'ihrend Z von — 00 sich lange
+der reellen Achse nach '²'2 bewegt, ist θ, z ⁰2 = π, demnach
+
+ss=}÷{-‡VAEAE
+und ’ξι geht auf der reellen Achse von — 00 nach νέξ-4- 7} , wobei ε und
+‘gl gleichzeitig die betreffenden Punkte --s‚-s1 passiren. Bewegt sich
+
+ε von ΓΞ nach ⁷²1 , so beschreffit ‘'{1 die obere Halfte des Kreises
+
+(7) (ξ ψ })²÷1]2 = s²m4p
+
+und zwar in negativer XVinkelriolltung nach der Formel
+
+ss={÷{÷{wffiffi.
+
+Ffir z = ν, hat man ξι = {¹ ὴὲ . Wenn Z ‚ nachdem der Punkt.
+
+7‘1 in einem unendlich kleinen Kreis herumgegangen ist, dem Weg auf
+der unteren Seite der reellen Achse nach — 00 folgt, so besohreibt der
+Punkt ξι die untere Hfflfte des genannten Kreises um nachher ebenfalls
+
+lfings derselben Achse nach — 00 seineu Weg zu verfolgen.
+Die beiden gressten Wurzeln des ζ1 entspreohenden gol-integrale sind
+
+.{‚-{÷V2⁸²4÷12 .
+
+Wie man leioht findet, liegen diese Punkte innerhalb des Kreises
+(7), und es solgt aus der obigen Auseinandersetzung, dass der einen]
+gegebenen z-werth entsprechende Punkt 'gl immer ausserhalb dieses
+Kreises genommen werden muss.
+
+Wir schreiten nun zum Studium des Integrals. So lange sich 3 auf
+der oberen Seite der reellen Aehse und unendlich nahe an derselben
+
+befindet, so ist
+
+ 
+
+kni
+
+νῖῖῧῖῑῧῧῖἧενᾶῶὣε3,
+
+wo k„-—- 3,2‚1 ist, je nachdem man
+
+ 
+
+2<r3 7 7'3<Z<⁷'27 γῃ<ε<νι
+

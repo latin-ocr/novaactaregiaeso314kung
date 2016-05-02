@@ -1,0 +1,87 @@
+Table cles matiet’eS.
+
+Reduction ‹lu cerole ‹le convergeuce (lu ‹leveloppement analytique de la
+fonction elliptique p(11;sl2;93), necessum-e pour le ealcul direct (lc la
+valeur (le p(1c 3 92 ; 93), la valeur (16 l'argument u etant douuee .
+
+Chercher les conditious pour que l'espace (le convergence ‹lu developpement
+
+analytique (16 p(n) z —ulff ÷ ÷÷ 4- 65ὶὲἳὸ
+
+points (ι = ω et ιι = ω’ ............. ·. . .
+
+1
+
+Determiner pour laquelle des valeurs ω et (ω’ le (leveloppement 1)(ιι)Ξ ἶ
+
+ 
+
+((2 4 ..... eomprenue les
+
+ 
+
+ψ ÷÷ 422925 u² ÷ . . . (1) n'est pas comm-gent, si les coefficients 92
+
+et 9³ ne satisfont pas aux conditions (16 convergence complete du deve-
+loppement (1) ...................
+
+Calculei· la valeur (16 la fonction ρῳ), la valeus (16 l'argument n etant
+donnee‚ si les coefficients 572 et 93 ue satisfont pas aux conditions de
+
+convergence complete du (leveloppement Mu) == ss ÷ ἢ( ÷ 9²
+
+u² 2²¹ . 5
+
+Chercher le lieu (les arguments ιι auanels correspondent des valeurs reelles
+
+((24...
+
+ 
+
+(le la fonction ρῳ) .................
+
+b. simplification de l'equation p(u) ε (ι, (ι etant une quantite re'elle
+
+7. Calculer numeriquement la valeur (le Fargument (ι, la valeui· (le la fonction
+
+10.
+
+2²(U)⁹ et celle (16 ρ’(η), etant ‹lonue'e ...........
+
+Division (16 l'argument ιι qui correspoutl ἐι une valeur de la fonction ellip-
+
+tique p(u) ....................
+
+Autre methode nouvelle de division (16 l'argument u de la fonction ellip-
+
+tique p(u) ....................
+
+Rectification de la courbe qui est 16 lieu (l'un point mobile P, le rect-
+angle des distances ‹luquel de ‹leux points flxes F ct Fl est egal au
+carri} (ιῖΖ
+
+. p.
+
+Ι).
+
+p.
+
+p.
+
+p.
+
+ΞΟ.
+
+22.
+
+26.
+28.
+
+35.
+
+45.
+
+51.
+
+55.
+

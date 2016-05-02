@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso314kung_0185.png"; bbox 0 0 2267 3068; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 658 604 1238 672">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 658 604 1238 672">
+     <span class='ocr_line' id='line_1_1' title="bbox 658 604 1238 672; baseline 0.005 -3"><span class='ocrx_word' id='word_1_1' title='bbox 658 606 699 670; x_wconf 84' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_2' title='bbox 722 605 765 669; x_wconf 83' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_3' title='bbox 788 606 823 668; x_wconf 55' lang='lat' dir='ltr'><strong>b*</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 882 604 922 669; x_wconf 75' lang='lat' dir='ltr'><strong>‹fi›</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 942 604 990 669; x_wconf 67' lang='lat' dir='ltr'><strong>st</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1011 606 1060 671; x_wconf 79' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1079 608 1123 671; x_wconf 56' lang='grc' dir='ltr'><strong>(ὲ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1142 607 1184 671; x_wconf 80' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_9' title='bbox 1203 608 1238 672; x_wconf 60' lang='lat' dir='ltr'><strong>b*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 862 808 1021 853">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 862 808 1021 853">
+     <span class='ocr_line' id='line_1_2' title="bbox 862 808 1021 853; baseline 0 -1"><span class='ocrx_word' id='word_1_10' title='bbox 862 808 1021 853; x_wconf 58' lang='lat' dir='ltr'><strong>nANs</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 208 982 1678 1084">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 208 982 1678 1084">
+     <span class='ocr_line' id='line_1_3' title="bbox 208 982 1678 1084; baseline 0.002 -4"><span class='ocrx_word' id='word_1_11' title='bbox 208 999 333 1080; x_wconf 79' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 397 982 963 1080; x_wconf 55' lang='lat' dir='ltr'>PENINSULE</span> <span class='ocrx_word' id='word_1_13' title='bbox 1037 1001 1678 1084; x_wconf 56' lang='lat' dir='ltr'><strong>SOANMNAVE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 806 1453 1069 1492">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 806 1453 1069 1492">
+     <span class='ocr_line' id='line_1_4' title="bbox 806 1453 1069 1492; baseline 0.004 -2"><span class='ocrx_word' id='word_1_14' title='bbox 806 1453 862 1490; x_wconf 90' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 891 1453 1069 1492; x_wconf 88' lang='lat' dir='ltr'><strong>MOHN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 388 1738 1487 1779">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 388 1738 1487 1779">
+     <span class='ocr_line' id='line_1_5' title="bbox 388 1738 1487 1779; baseline 0.001 -3"><span class='ocrx_word' id='word_1_16' title='bbox 388 1739 443 1778; x_wconf 88' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 473 1738 883 1778; x_wconf 86' lang='lat' dir='ltr'><strong>HILDEBRAND</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 912 1739 1487 1779; x_wconf 83' lang='lat' dir='ltr'><strong>HILDEBRANDSSON.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

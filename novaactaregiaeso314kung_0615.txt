@@ -1,0 +1,46 @@
+MODlFICIERTE LLOYDSCHE WAGE. 5
+
+spalteten Hohlcylinder aus galvanischen'l Kupfer besteht von 18 can.
+Lange, 38 c.m. innerem Dnrchmesser und 03 c.m. Wanddicke. Die bei-
+den Halften werden durch zwei kleine Meseingschranben an der nnteren
+Seite der U-fiirmigen Schenkel befestigt und ausserdem durch eine runde
+Vertiefung im Kupferstabe gestiitzt3 die Qnerfliichen der Hiille werden
+durch Planglfiser trag-ende Hfilsen ans galvanischexn Kupfer verschlossen.
+Eine excentrische Durchbohrung der Htille gestattet die Einftihrung einer
+Thermometerkugel im innern (108 Instruments. Zn erwssihnen ist noch,
+dass vor der definitiven Verschliessung (108 Apparates zwei kleine Glae-
+schalen mit Chlorcalcium in demselben eingefiihrt wurden. Die Be-
+wegungen des Magnets werden durch ein Fernrohr in Verbindung mit
+einer vertikalen von hinten beleuchteten Glasskala in gew'chnlicher Weise
+beobachtet. Der Apparet wnrde fiir die hiesige physikalische Institution
+vom Herrn Instrmnentmacher P. M. SbssENSEN in Stockholm nach meinen
+Angaben in ausgezeichneter Weise ausgefiihrt3 bei der Herstellung des
+—Magnets haben sich einige Schwierigkeiten gezeigt in 80 fern als einige
+sehon fertige Stahlcylinder heim Ha'rten zersprangen.
+
+Wird die Gleichung (1) nach allen veranderliohen Grssssen variiert,
+so bekommt man:
+
+uw÷ νδμ = (ιιδΗ, ÷ Ηιδμ ÷ 120¹&th ÷ <Pb ÷a1H1> a?
+
+ἢ)
+
+-f- Pd‘a .
+
+Ist der Winkel θ exakt oder wenigs'tens annnhernngsweise gleich anl,
+80 kann das erste Glied der rechten Seite vernachlssissigt werden, nnd
+somit ergiebt sich, wenn zur Abkfirzung
+
+P . H
+
+ΠΣ] , T7¹=cotz7¹
+gesetzt werden:
+(2) ὦζε <fb ψ cot ις) ἐξ — '71⁴ ΗΜ ,
+wo fiir das letzte Glied auch (ξι geschrieben werden kann. Die beiden
+
+Glieder μὸΗ1 und Hldpc kennte man anch dadurch zum Verschwinden
+bfingen, dass man die Schneide dem magnetischen Meridian parallel machte,
+wobei dann auch cot i, gleich Null wiirde. Dies soll aber den Ubelstand
+mit sich bringen, dass das Drehnngsmoment der Horizontalintexmitat,
+welches dann ein Gleiten der Schneide hervorzubringen strebt, durch
+

@@ -1,0 +1,63 @@
+8 A. Bamm,
+
+verons⁷ que la defirivefie ι]““(”)(υυ) n'est pas d'un ordre sup&rieur que la
+fonction aess-”(log„v)⁶. A cause de la forme de ces <1151-iv6es on peut de‘z-
+terminer deux nombres entiers positifs n et lc0 ainsi, que
+
+lim f(²”†¹>(oe) = O .,
+κη
+
+et que la dbrivesse s'‘²'¹†²³(z) ne change pas de signe pour ,τξλιο . Par
+suite on peut appliquer le tlfflorbme prd‘cbdent ἐι cette fonction f(z·);
+et puisque la quantit& K dans ce cas desspend des quantitbs α et I), nous
+remplacerons K par Α’(α , b), et par une ressduction facile nous trouverons
+
+pour ΙεΞΙεΟ la formule
+
+ 
+
+ 
+
+(24) '‘32‘’ J20(10g}2>b = [1110οὲ- :cyzim -1— K(a , b) ÷ ‘⁶⁰02ng
+-Ι- θ lust-¹ (log ΑΥ α -4- 1οΞἱῶ ξ ,
+
+οὺ l'on daesssigne par θ une quantit&y qui est finie pour tontes les valeurs
+du nombre k. La valeur de la quantit(² K(a‚b> est, donne'v par une
+formule dans le th&01·⁶}n1e pl·(·c‹}de1]t; pour α < O cette formule peut &tre
+
+simplifi6e3 en effer, les dtssrive‘aees
+,1111) ‚sm ‚f“<a·> , - - - -
+s'annulant dans ce cas pour :e = 00, nous aurons
+
+15²(10g 1>” -s— (1· ÷ 1)‘¹ (103(1· ÷ l))‘
+
+(25) Κ(α,1>;(1ὲξῙ-)ᾋ ΙΞ 2
+
+³¹ k 1
+
+ 
+
+’1111
+
+- j „vufiog-aeyd222} .
+22-
+
+Ajoutons ἐι cette έῡῊΙίῐέ l'identite'¹
+
+<10g 111 „rh-g 1 (1011111411 1 1> <10g (1 1 1))ὁ
+
+k= 1 ‘¹‘
+
+(26) 0 Ξ
+
+ 
+
+nous en obtiendrous
+
+(27) K<a , b) = Ξ {kamog 1>1> - s'k{{›3¹<10gm>⁷2aoe .
+= ‹xa-
+
+Ic 1
+
+ 
+

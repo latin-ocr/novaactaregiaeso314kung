@@ -1,0 +1,50 @@
+KONS'I'ANTENBESTIMMUNG MIT EINEM LAMONTSCHEN THEODOLl'r. 111
+
+Die Temperatur· und Intensitssitskorrektionen sind oben a1‘1gef1'il1m3
+die 11111011 mitgeteilten Winkel sind wegen der Ungleichheit der Ablen-
+kungen 3011011 νο11)03301·1; die Torsion (103 Aufhangefadens war kleinex·
+als 10'‚ die diesbeziigliche Korrektion fallt 1111111111 weg3 die Iuduktions-
+korrektion wird:
+
+bei Ablenkungen in der ersten Hauptlage xl leg 3111 (J = 4- Mod. κ Η3111 q 7
+1) )) J) ›) zweiten )› A leg 3111 ‹s' = — Mod. κ Η3111 ι[’ ;
+
+dabei ist. in 1111301111 Falle: log <Mod.z H> = (1.7170. 80111103311011 1111133011
+110011 vor der Anwendung die Variationsablesungen wegen (103 Ε11111113303
+(103 Ablenkungsmagnets korrigiert werden, eine Korrekfflon, die freilich
+kleiner ausfiel als 1011 03 nach den bisweilen grossen Sehwingungen7 in
+die sie gerieten‚ besiirchtete. Die Kolnponenten der magnetischen Kraft,
+die ein Magnet vom Momente M in dem grossen Abstande r, (1033011
+Winkel mit der magnetischen Axe w 131, 31131101, parallel und senkrecht
+zur magnetisehen Axe, sind bekanntlieh:
+
+M
+
+=÷}(30082w— l), Y: 3ζέ3311100003111).
+
+X
+
+Befindet sich hier eine bewegliohe Nadel νο111 Momente μ 1111(1 ist
+
+der Winkel (μ,7’) = ω’, 30 131 das auf die Nadel ausgeiibte (positive)
+Drehungsmoment:
+
+*AE
+
+7¹³
+
+,Ω [(3 0032 ω - 1) sin (ω’ - ω) -4- 3 3111 ω 003 ω cos (ω’ - w)]
+
+Ξ ἒξ [3 Sin (ω’ -1- ω) -1- 3111 (ω’ ... UO] ,
+
+Ν1111 kann man zuerst die Variationeablesungen, wenn der Ablen-
+kungsmagnet zu beiden Seiten der freien Nadel. aber im [ibrigen in der-
+selben Lage sich befindet, zu einem Mitte] vereinigem die 011101301110
+Korrektion desselben 131 dann, von Gliedern 1101101·οΥ Ordnung abgese-
+hen, dieselbe⁷ wie wenn der Magneta 31011 3011031 parallel auf den Platz
+der freien Nadel des Theodolits versetzt wird. Die Totalkorrektion der
+ganzen Reihe der Variationsbeobaehtungen ist 3011111 das Mittel aus zwei
+Korrektionen, bei denen der Ablenkungsmagnet auf dem Platz der freien
+Nadel in zwei zum Meridian symmetrischen Lagen gedaoht wird. Es
+301 nun:
+

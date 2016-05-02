@@ -1,0 +1,55 @@
+42 N. G. Dormit,
+
+Pour trouver la difference de declinaison qui vient d’etre men· ·’
+tionnee, j’ai employe la methode suivante ¹). Soit Δὸ la differenee
+
+cherchee, r le rayon du disque solaire et P l’angle de position du Α
+point, on a:
+
+(8) r ....... Ao* = ›1-1-CosP.
+
+Soit (Fig. 4) ΔΑ l'equateur‚ ΕΕ l’eoliptique‚ S le centre du disque
+solaire, M le point en question, Ple pole de l’equateur et P' celui de Ι
+l'eoliptique. Alors:
+
+PSM = P .
+
+Mettons P'SM=p ‚ PSP' :p—I) ., et soit ὃ la declinaison‚ λ,
+β la longitude et latitude d'un point du sphere celeste et ε l'obliquite
+de l'eoliptique.
+
+Une formule bien connue de l'astronomie spherique donne:
+
+Cos d* Cos Π .-- Cos ε Cos β - Sin ε Sin β Sin λ .
+
+Or, dans le cas du Soleil on a ff: Ο et l'angle parallaotique Π vv
+devient ega] ὲ p - P, dono:
+
+Cos <p -- P> = {⁰⁸ ⁶
+
+ 
+
+ 
+
+(fa—55¹ '
+d'ou:
+1-0—0'32
+l—Cos(p—P) — ‹losd- Coss-008⁶
+l÷Cos(p-}-P) - 1-ζ1-Ξιξξῇ (Ιοεδ-Ι-Οοεε ⁷
+Cosd‘
+ou:
+2Siqz²{(p—P) 2saen{(2÷‹5>32·n{<2--‹5)
+20052ὲζρ-Ρ) -,Ξο08ὲ(εψὸ)008ὲ<ε-δ)ἳ
+et
+
+ 
+
+ 
+
+(9) . .292}sp--P)=‡Vc9{(s÷‹5}t9{(⁶-—c5—>.
+
+1) Quelques-unes de ces formules se trouvent dans uu memoire de M( Τ =
+Lommzom dans les »Memorie della Soc. degslz' Spettroseop. Ital». Tome Ι.
+
+ 
+

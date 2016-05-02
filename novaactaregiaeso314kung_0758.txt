@@ -1,0 +1,50 @@
+44 N. O. Dnm'zR.
+
+Puis si l'on considere le tri-angle spherique entre 18 point nord
+dn Solei] S, 8011 11018 O 81. 18 point Μ, 011 a:
+
+OS: i= l’inelinaison de l’equateur solaire,
+811 4 4 p ‚ OM 4 ,η ‚ OSJI 4 4 (O 4 Ω) ‚
+
+et· par consequent:
+
+Cos ,Ἴ = Cos ἱ Cos p - Sin p Sin ἰ Cos (Q) - ..(2) ,
+ou
+
+(11) (0.,λ ,7 4 COR <st 4 ε) 4 2 sm μ sm 18ῑηῖ ὲ (0 4 Ω) .
+(38118 equation donne la distance polaire heliocentrique du point
+M. Le caleul d'nne table de cette quantite pent 8118 abre-ge par la 8011·
+81(181“1111011 que
+
+(30⁵. (ρ 4 1) 4 2 ,sm st Sin {Siffl ἐ (0 4 Ω) 4 005 (μ 4 i) 4
+
+4 2 81η), sm 18012 ξ [800Ο 4 (Θ - Ω)]
+
+..a
+
+ι ε 002 μ 4 sm μ sm 2005· (O 4 Ω) 4 4 [Cos ι· 002 (180 4 μγ*
+- sin 1801 (180 4 p) Cos (18οο 4 Θ 4 Ω)] .
+
+La premiere de 888 equations apprend que les valenrs de π -p
+sont les 111811188 pour 3600—(0 — Ω) que pour O- Ω, par consequent.
+on n’a pas besoin de calculer n—l) pour des valeurs de Θ -Ω> 1800.
+
+La seconde equation prouve que les valeurs numeriques de ⁷1-P
+80111 188 memes mais de signes inverses pour 18004 ‹let18004 Q -Ω
+que ‘pour l) et Θ-Ω. Par consequent il ne devient pas necessaire
+11011 plus (18 calculer expressement sr-p pour les valeurs de P entre
+90⁰ 81 1800.
+
+Finalement, la valenr maximnm de π etant 180⁰, il 118 faut pas
+elnployer les valeurs de p qui depassent 180⁰; 11 faut leur substituer
+μ-1800. On obtient ainsi la distance polaire australe.
+
+On voit (10118 qu'il suffit de calculer 71—p pour les valeurs de p
+entre 0⁰ et 90⁰, 81 pour Θ - Ω entre 0⁰ 81 1800. A 888 88181118 j’ai em-
+ploye les valeurs (18 Ω et i trouvees pai· M. SPORER. Rednites 31 l'equinoxe
+(18 1888‚5 elles sont:
+
+Ω = ῖ40,9 i= 7⁰,O
+
+Ainsi jai trouve Ia table suivante.
+

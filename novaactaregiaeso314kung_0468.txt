@@ -1,0 +1,60 @@
+10 AxEL SbDERBLOM‚
+
+En substituant dans l'expression de la quantite l la valeur lz2 de
+lz, la condition pour que la serie (l) soit convergente pour u = w est que
+
+(12) l< O.41421333 .
+
+Ainsi‚ (11) et (12) sont les conditions pour que la serie (1) suffise
+pour oalouler directement la valeus de Ia fonction 210⁶), quelque grande
+que soit la valeur de Pal-gument α, mais reduite en la valeur (ou les
+valeurs) de l'argument correspondant sur les csstes du premier quart du
+rectangle des periodes.
+
+De plus, 011 ῆι)
+
+ 
+
+ 
+
+ 
+
+Z — 1 - W
+α 1 -f- Vl?
+d⁷oi1
+γῇ - [ᾧ
+l 4- ί
+Talnam (les [alceir-s* [le let de {ll—ll? qni correspondent sl (les valeam· differentes de h:
+dl
+l! l Ἡ
+
+0.001 0.0020 0000 2.0000 0000
+0.002 0.0040 0000 2.0000 0000
+0-003 0·0059 9999 1·9999 9999
+0 004 0·0079 9999 1·9999 9999
+0-005 09099 9999 1-9999 9998
+0.010 0.0199 9999 19999 9980
+0-015 0 0299 9999 Ῑ-9999 9898
+0.020 0.0399 9998 19999 9680
+0-030 0-0599 9990 1-9999 8963
+0·040 0·0799 9959 1-9999 4880
+0.050 0,0999 9875 1.9998 7500
+0.060 0·¹199 9689 19997 4080
+0.070 0.1399 9327 19996 1584
+0.080 0.1599 8689 19991 8081
+0.090 0·1799 7638 19986 8811
+0.100 0.]999 6001 19980 0089
+0.150 09996 9634 19899 2781
+0900 0-3987 2540‘ 1.9682 2890
+0.250 0.49613130 1.9232 3444
+
+ 
+
+ 
+
+1) Voir: SCHWARZ p. 56.
+
+ 
+
+ 
+

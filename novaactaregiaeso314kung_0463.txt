@@ -1,0 +1,41 @@
+DE LA CONVERGENCE Du DEVELOPPEM. ANALYT. DE LA FONc'r. Em„ ])(ιι) eto. 5
+
+pour 13 11101116 13 plus prochaine (16 l'origine du parallelogramme des
+periodes: pour le triangle dont les sommets sont dans 166 points Ο , Bw
+61 2ω’ .
+
+De plus, 61 l'on prend 166 cotes O ‚ Ξω et- Ο ‚ 2w' pour axes des
+coordonnees v 61 w, on 3 ιι π v-f- w. — Pour evites 13 substitution de
+v÷w dans le developpement de μω), on n'a qu'& employer quelqu'une
+des equations par lesquelles on exprime le theoreme d'addition (16 13
+fonction p(u) ¹), p. ex.
+
+Ρ <v ss 20> = {yffi-HQ] -μω - 2200> -
+
+Aiusi, pour oalculer la valeur de ΡΨ), 11 suffit d'avoir 166 deve-
+loppements des fonctions p(u) 61 p'(u) pour les arguments (10111166
+points correspondants 60111 6111166 16 long (166 66166 Ο , Ξω et O , Zw' du
+parallelogramme des periodes.
+
+De plus, 200 61 2ω’ etant les periodes de 13 fonction μω), on a
+
+p(v) =p(2w-v) ‚p(w) :p 2ω’- w) .
+Dono, si
+
+ΙυΙ>ΙωΙΟιιΙιυΙ>ΙωἸ
+
+on a
+{2w—v{<}w{ 61 1:2w'-w{<1w‘1 .
+Dans ce 636, si l'on pose
+0:111-1-17¹ 61117;ω’-1-1ιί
+on aura
+p(v) =p(w-v¹> 61 p(w) =p(w'— ²01)
+οὺ
+
+Ιω-υικΙωΙ61Ιω’-α1ῙΙ<ΙωἸ.
+
+Ainsi, pour ealculer 13 valeur de la fonction elliptique Ρ(1ι)3
+1’31(16 du developpement analytique (4), il faut et il suffit, que le rayon
+
+1) Voir SCHWARZ: g* 12, pp. 13, 14.
+

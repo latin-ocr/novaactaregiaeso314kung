@@ -1,0 +1,44 @@
+RECHERCHESSURLESVALEURSMOYENNESDANSLATHEORHEDESNOMBRE& 107
+
+ξ. 11.
+DE LA FONCTION A .
+
+D4signons par α une quantit& positive, et posons dans le th&-
+
+orbme IV
+
+nous aurons la formule
+
+(391) lim w 7¹}oe gn* = α lim ἑαῖιζῑ ψὲηἶιξὲ ’Ἡ ······ ÷ ’Ῑῑμιζη
+
+w=0 „=1 ‘Ill-..w πετο Ἰζα ⁷ ἶ ⁷ ’
+
+ 
+
+en posant dans le tlffiorfflne VI
+b =]. , (ἠ = (θ’
+
+UOUS RUPOHS
+
+ 
+
+:ff .- ᾉψζῖ-μημὶ-Σᾈ
+(392) lim w „Ea {Lo = lim W} fij? *W A Ῠι
+c=o n=1 77, 77=z> log n
+
+Des &quations (379), (391), (392) on dffluit
+
+(393) lim ὲῗιέιὲὲῗζε ÷ · ÷ff?2“‘¹‘÷‘n Ξ 76⁷ ,
+ηεω - 72⁰ 71²a
+et
+5JV-f-{24-..U-1- ζ
+(394) lin ,ἶ LAABA ψη Α ,λέ γ 2 69 7
+n==t log η π·
+
+formules, qui ont ‹ite'ae de'mmntre‘ees sons la suppositi0n‚ que les limites
+dans les premiers membres soient des quantfite‘zs finies et cle‘terllwin6es.
+Maintenant nous dfflnontrerons rigoureusement ces deux formules3 posons
+pour ce but. dans le tlffiorbme XIV
+
+son) = 7)z“—¹ §m , f1(''²‘') z m‘¹-¹ae,„ ‚
+

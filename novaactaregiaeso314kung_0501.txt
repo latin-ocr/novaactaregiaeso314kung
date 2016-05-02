@@ -1,0 +1,49 @@
+DE LA CONVERGENCE Du DicVELOPPEM. ANALYT. DE LA FONCT. ELL. Mu) 010. 43
+509 (l -Ι- 0³11} -1- (μζ) Ξ 0001113139
+loy ,ιζ-ς = 0.9093 882 — 2 .
+
+Comme cette valeur 110 differe de celle de l09oe2 qu’au septimne
+chiffre, 011 0
+
+[09 se Ξ 00093 882 Ξ 2 [09 ιι Ξ 01516 941 Ξ 1 .
+
+Dono, 10 valeur de l'integrale proposee est
+
+ 
+
+ 
+
+Γ dm* W ff - ιι Ξ 02019 0111
+1Voe4 — 6103 -Ι- 51153 -1-141Ξ 4
+
+ι
+
+valeur dont 10 0010111 0 010 aussi commode que simple.
+
+Calculer nume'riquement [es valeam cle l'aryumeut u qui satis-
+font iz l’e'quatz'on
+
+112003923573>= (ΗΓ sb·
+
+Aussi 00 0010111 00 fait commode-§ment 011 employant 10 (1110 1110-
+1110ᾶο (10 ealculer 10 17010111 (10 l'argument 0, lorsque la valeur de 10
+fonction p(u) 001 100110. seulement, au lieu de l'equation (3) p. 41, il
+’ faut employer 10 formule
+
+(4) x Ξ l -†- ⁰2²²? 1- ⁶÷E÷f³ss112fffi2;
+
+Σ (αῙ- ib) — 03112 .- cg 11³⁴ - (³5:1¹⁶ -Ξ .
+
+ 
+
+ 
+
+pour 00100101· 10 valem- de ατ Ξ 1ιῖ, La valeur de l'argument u 010111 (10
+10 forme u= v-4-iw, 10 calcu} de u equivaut 0. 10 resolution de deux
+equations p(u) = c. Le :B du premier membre de (4) etant une fone-
+11011 101101101Ιο (10 10 valeur de w qu'on substitue dans 10 membre 0
+droite, 10 11101110ᾶο 110 donne qu'une valeur de ι0,(1ὀῖ1 deux valeurs de u,
+dont 10 positive est 10 1701001· principale, la seule valeur, dont on ait
+ordinairement besoin. Si l'on a besoin des autres valeurs de l'argument‚
+on les trouve en 0010010111 les periodes.
+

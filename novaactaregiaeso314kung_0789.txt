@@ -1,0 +1,48 @@
+RECHERCHES SUR LA RO'PA'PION DU SOLEIL. 75
+
+entier dans le temps le plus court, et que le temps de rotation aug-
+mente avec la latitnde. Mais les taches qu'on a pu observer pendant
+plus d'une revolution, et qui par consequent 86 pretent avec avantage
+aux recherches sur la rotatiou du Soleil, ne 86 sont presentees que tres
+exceptionnellement au dela (16 35⁴¹ de latitnde et jamais au dela de 45⁰;
+la latitude la plus elevee on l'on a vu une tache n'atteint pas 168 550.
+On n'a donc rien su *jusqu'sst present, sur la rotation des deux calottes
+entre 550 et les poIes. Mes observatione etendent notre connaissance
+de ces faits jusqu'z‘i la latitudo de 750, donc ⁴jusqu'au voisinage immadiat
+des poles.
+
+J'ai employe les valeurs de §Cas-<p pour dednire 168 formules qui
+donnent les valeurs de l'angle de rotation en fonction de la latitude
+heliocentrique. On sait que M. Fun a adopte, dans 168 recherches qu'il
+a faites sur ce sujet, la forme:
+
+ξ Cos (p = [a - b Sin2 qs] (jae (Ι1 ,
+ou ce qui revient an meme:
+ξ Cos φ = [α’ -f- ῥ’ 008² φ] Cos' φ .
+J'ai d'abord adopte la forrnnle:
+ξ Cos φ = 9⁰,35 Cos* φ 4- 5⁴³‚00 003³ φ ,
+ce qui donne les equ-atione de condition suivantes:
+
+0 z ψ 092694 ÷ [9.99999] (la' ψ [999997] clb‘
+o τ ÷ 93472 -4- [9.984()4] (la' ψ [9.95482Ἰ(Ηι’
+0 z ψ 0 0349 4- [9.93753Ιιί(ι’ -1- [9.81259J(Ib'
+— 0.1007 4 [9.84949]da' ÷ [o 54847] cll!
+— 0.0100 ψ [969897] (Ia' 4- 1969691] (lh'
+ψ 0.0915÷[9.41861]d(1‘÷18255831dla' ‚
+
+ΙΙ ΙΙ li
+
+0
+Ο
+0
+
+oh les quantites entre crochets sont des logarithmes. Ges conatione,
+traitees d'apres Ia methode des moindres carros donnent 168 formules
+corrigees suivantes:
+
+(29) . . §Cos φ = 9⁰‚56306 Cos· φ -1- 40,535ῖ4 Cos¹³ φ .,
+
+ou bien:
+
+(30) . . . ξ Cos* φ = [140710 —— 4⁰⁷5⁴ δέῃ’] φ] Cos ᾳ .
+

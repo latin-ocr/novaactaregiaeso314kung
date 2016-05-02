@@ -1,0 +1,59 @@
+6 A. BERGER,
+
+En faisant u = - ω , u = — ω’ , ιι = —w‘' dans cos trois sormu-
+les, on en obtiendra‚ 29¹(u) &taut une fonction impaire de u,
+(36) p'(w) = O ⁷ p'(w') = O 7 p'(111'') Ξ O .
+
+Des &quations (2), (32), (34) οη tire
+
+(37) lim Q = 1 ‚ lim n²p(u) z 1 , lim ¹10³p'(n) = -— 2 .
+ατο u u=s1 u=0
+Dans ce qui va suivre nous nous servirons d'uue fonction q(u),
+dessfinie par quuation
+
+&Q ffln20ffl½w03
+
+appliquons ὲ cette formule Nquation (31), nous en obtiendrons
+
+(w) ffn=0of—ffofflow
+
+formule qui montre, que la fonction q(u) est une fonction entibre de la
+
+variable u.
+Au moyen de la fonction σξη) on peut, former toute fonction
+
+elliptique d'aprbs le theiorbme suivant, que nous supposons connu:
+
+Les conditions ne'oessaz‘res et suffisantes pour qzc’il existe une fonction
+elliptique aaa} pe'rz'odes 2w‚ Zw', qui α (les ze'ros et des infinis donne'S, sont
+
+1) que les zo'ros soient inoonyrus¹ accoe infinis,
+
+2) que le nombre des κᾶνω-ς et le nombre des infinis dans un parallelo-
+9ramme des pe'rz'ooles· soient finis,
+
+3) que le nombre des ,τέ’-03 dans un paralldloyramme des pe'riodes soit
+dyal an nombre des influis,
+
+4) qu’en cle'siynant les ze'ros par ul ‚ u2 ‚ . ‚ ur et les infinis par v¹ ‚
+v . vr, on att
+
+2 ⁷ ⁶
+λς,- ³.=‚- l
+Σ αλ-- Σ vg = 2Ᾰω-Ι-21εἰι’.,
+λιι λιι
+
+k, k‘ e'tant <les nombre-5 entier& re'els,
+
+et toute fonction elliptique (pm) ayant les pe'riodes 2w, 2w' et admettant des
+ze'ros et des infinis, qui sati-{font ὰ. ces condition& est donne'e par la for-mule
+
+(pm) = Ce<⁹k⁷1÷2k½f>u²ffo<u - αλ) ’
+,χει σ<ῑι - ²³7.)
+
+ 
+
+oia C est une constante arbitram-e.
+
+ 
+

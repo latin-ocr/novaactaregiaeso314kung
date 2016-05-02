@@ -1,0 +1,40 @@
+104 A. BERGER,
+
+Ces formules ont ἑτέ ᾱριῃοιήῑέθε sous la supposition⁷ que les
+limites dans les premiers membraes soient des quantit-&s finies et dffiter-
+min6es. Des dssfinitions des fonctions 11„ ‚ 9„ on peut conolure, que les
+formules (381) et (382) sont rigoux·eusffl11e11t vraies‚ et dans ce qui va
+suivre nous donnerons une dessmonstration rigoureuse dela formule (384).
+
+ξ. 10.
+
+SUR QUELQUES APPLIGATIONS DE LA FONGTION· Em.
+
+Posons daus le the'oreflne XIII
+
+f1(⁷²2)= 1 2 9012> = 1 ,
+ἀὈῖι
+f2<m> = ‘m ›
+nous aurons ce thc'eorkmet
+
+The'orbme XXV. Soit f(m) {me fonction quelcmzqzce‚ et posons pour
+tout ‘nombre entier positzf k
+
+’κω = Σ f<c1> ,
+
+ιω, =1>
+
+720ch auron&
+
+Hk> = Σ «ῆιΙκᾶὼ -
+
+αι). = ι·
+
+Voici quelques applications de ce thffiorbme:
+1) En posant
+f(m) —-— 1 pour m = 1 ,
+f(m) = Ο pour m > 1 a
+nous aurons &videmment
+
+J2(k>=1 ,
+

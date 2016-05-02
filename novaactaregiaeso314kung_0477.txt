@@ -1,0 +1,39 @@
+DE LA CONVERGENCE DU DEVELOPPEM. ANALY'I‘. D1⁴2 LA FONCT. Em„ p(u) etc. 19
+
+Les &quations (25) ct (32) sont voir: que, pour ψ = ἐ ,
+l„ = {2 , 113 = l22 ct ἒ = ἓ) ; quc, pour L, < ψ < π , ω < ‘1¹2 3 de. sorte
+2 n
+
+qne la condition (23) est toujonrs romplie, lorsque lla< Ο.
+
+Le coefficient 26.8378 44... diffcre si pou de 27, dans la condition
+de la rcalitc' (l’mze des racines (τι a ‘2³2 , (⁷3, qu’il nc scra que dans des cas
+exceptionnels que lc dcveloppcrncnt (1) do pm) nc suffira pas pour eal-
+culer la valeur de p(u)‚ u &tant nn point quelconqnc du premier quart
+du parallelogramme des poriodes.
+
+Le re'szwne' de la recherche de ce paragrapho est:
+
+1⁰ si 572> 2793, il fazet ‹mss-i que
+(α) gs} 3 y} · 27.163-2 6ss . ..
+20 si ῃξ<279ξ , «sue
+(b) ,(73 < Ο 7
+ou (c) 513<93 . 26837841.. ⁷ {sa > O
+
+pom· que le ‹ldveloppement (1) (16])(η) sus-'fise pour caleuler (lireetement la
+valam» de ΡΨ), u ἐταηί un point qaelconqrw ela premier quart (lu [taral-
+lelogjramme cles pe'riodes.
+
+Si les coefficients 572 et 9³ satisfont ὲ l‘unc quelconquc des condi· ¹
+
+tions (a)⁷ (b), (C), nous dirons que le dcveloppcrncnt (1) de 120⁶) est
+complbtement convetyent; et les relations (a), (b), (c) seront appclces eon-
+ditz'ons de converyence compllete du dcvcloppement (1) de 220⁶).
+
+Plus le quotient 9} t gs} est. > 27.1632 66 . ,. , lorsque μζ : ιιχξ> 27,
+ct que [ΤΞ ; y} est < 266378 44 , , , , lorsque fs} : ΗΞ < 27 , plus le de'zveloppe-
+ment (l) de p (u) cst convergent, ct plus il est commode pour le calcul
+pratique; p. ex. pour 9} = 9} · 26837722, qui diffcre si pen de la con-
+dition (ο), le dcveloppement (l) de ραι) est tros commode pour le
+calcu] pratique.
+

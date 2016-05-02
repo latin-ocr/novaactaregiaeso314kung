@@ -1,0 +1,42 @@
+Rucuma-mes sm< LA Ro‘rATmN DU somn„ 49
+
+HE=2f ; HA =h.
+
+On voit que AHC est le meme angle que NME dans la figure
+precedente et que par consequent
+
+ΑΗΕ = 900 - (ΑΡ- φ) ;
+On a done:
+
+HM =f112<1²- φ)
+et
+
+BA· = ὴ —ftsJOE— φ) .
+
+Si en outre KC est la meme ligne que SE, SKC est le meme
+angle que MSE dans la figure precedente⁷ et par consequent DCK= P.
+On a donc
+
+DJ< = ΒΚ Cos (P- ῳ) .
+DK = lt Cos (P— φ) —f Sin (P— φ) ,
+CK = DI( Cose'c P ,
+et si l’on met CK = y :
+(13) y == k Cos (P- (ρ) Cose'c· P-—sz'n (P— φ) Cose'e P .
+
+Soit maintenant DEMB le parallel-e sur lequel est sitne le point
+M, et soit B le point sur lequel s'est portee l’observation; alors on a,
+si s est le semidiametre du soleil:
+
+SB=SM=sSim1,
+AM=3s 3 SA=sSinJr—3s .
+
+Il est &vident que la tangente en M a la meme direction que
+BF, tandis que la tangente en B a la direction BG. Mettons GBF=1p
+et l'on obstent, GBF etant &gal ἐι ASB:
+
+s Sin π - y
+s Sin ᾗ ’
+Nova Acta Reg. Soc. Sc, Ups. Ser. 111. 7
+
+Cos ψ --
+

@@ -1,0 +1,62 @@
+8 A. Bfflmmz,
+
+La fonction p'(u) est 11116 fonction elliptique du 1101616016 ordre
+ayant les 214ros w, ω’, -ιυ” et l'iufmi triple O; en appliquant la for—
+1111116 (42) ὲ cette fonction, on aura (10116
+
+ 
+
+(47) p‘CM) Ξ C σ(1ι - ω) (1(11 - ω’) σ(1ι 4- vs) .
+σ(ι,ι)3
+Multiplions les deux membres (16 cette 6011611011 par u³‚ nous en
+obtiendrons pour u = O
+(48) C = - ‘⁶²
+
+ 
+
+ 
+
+σ(ω)σ(ω’)ῌσ(ω”) ’
+et par suite on tire de fflquation (47)
+
+(w) pv)=—2ffl⁹“”fissfffffffl†ffl”.
+, πωσω>πω>πωό
+
+En remplagaut u par — u, 011 611 obtiend1·a
+
+ 
+
+&m ffffl)=2ffu÷a&ffu÷pwffu-ust>3
+
+owoffwwffwvomw
+
+des &quations (49) et (50) 011 tire par multiplication et en y appliquant
+
+ 
+
+⁷ la formule (45)
+
+(51) 22'<u>² = 4(2⁹(u>—2³(w» (120⁶) —2³(w')) (ΡΨ) -1’)(ω”)) ·
+Par introduction des notations
+
+66 «ερω1μ63ψω1ῃαερωῠ
+
+et '
+
+(53) 9, = 4(61 4 62 -1-63) ‚ 92 Ξ -4(ι>162 -4- ele³ -f- e2e3) ‚93 = 43162&³
+
+l'&quation (51) peut 61316 111166 60116 la formo.
+
+(54) ff<u>² = 4(2⁹(‘1⁶> — ει) (Mu) — 62) (1)(α) - 63)
+OU
+’ (55) P'(u)² = 4p(u)³ — 9. 2⁹(u)2 — 921²(u> — 9³ -
+
+La fonction zc²p(u)‚ 6161111 finie pour u = O⁷ peut &tre (16ν61ορρ66 “ ¹
+
+611 66116 ordonn& suivant les puissances croissantes de u, et par suite
+nous aurons dans 166 environs (16 ιι = Ο 11116 &galim (16 la forme
+
+(56) u2p(u) = A⁰ -1— A¹ u -ξ- Α2 u² † A3u³ ÷ . . . .
+
+ 
+

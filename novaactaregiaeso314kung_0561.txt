@@ -1,0 +1,61 @@
+Dm MAGNETISCHE INKLlNATION 1N UPSALA UND STOCKHOLM. 7
+
+liegt, wie St0c=l<holm und Upsala⁷ darf man wohl mit geniigender Appro-
+ximation seine diesbeziigliehen Untersuchungen auf dieso Stfidte aus-
+dehnen. Eine nach Jahreszeiten geordnete Zusammenstellung seiner
+aus vieljiihrigen Beobaehtungsreih011 abgeleiteten Tagesamplituden giebt
+er in der »Uebersicht der Verhandlungeu der Sehwed. Akasl. der Wissen-
+sebastem> (Cvaersigt af K. Vetenskalffiakademiens fbrhandlingar) XVI Jahr-
+gang, 1859; und ich gebe sie hier wieder, nebst einer auf graphisehem
+Wege erhaltenen Ausgleiehung (Kolumne ))Interp.))) ¹).
+
+ 
+
+ 
+
+l) Obwohl diese graphisehe Interpolatiou fiir den vorliegendeu Zweek aus-
+michend ist, kennte es in theoretischer Hinsioht von Interesse sein dio Tagesampli-
+tude als eine Funktion der Jahreszeit analytiseh 211 berechnen. (Vel-gl. hieriiber
+W. KIND: Ein Beitrag zur Bestimmung der tfigl. Var. des Erdmagnetismus. Program
+des Kbnig-W'ilhelms—Gymnase zu Stettin 1887--1888.) Naeh FOURIER kann jede peri-
+odis->ohe Fuuktion f (t) mit del* Periode τ in trigonometriseher Reihe entwiokelt werden,
+
+deren Ausseheu sein wird:
+2nt 2nt
+
+f(t)==¹5c10 ÷ (cleosffirff ÷ (12(τ()ε2«Τ ÷ . ..
+
+0
+÷b δίΠΞΤΓῑκζή-ἰιῖ εἰ112.ἶ7ΐτζψ...,
+
+27Πῖ
+
+wo a„ = ΞοΓβ( (ficosa jffl .th
+= :ss (t) sin η. 2⁷1} .dt.
+ῖ ⁰ T
+
+Erlaubt man sich, wem] nur discrete Punkte der Funktion gegeben sind,
+eine Summation anstatt del Integmle zu schreiben so werden die Coefficienten:
+
+(ΙηΞ-ΣΪῌ) coste. ΞῖΐΛῘί
+TA!
+) τ -27r
+512—:Vf(t)51nn fir« At.
+τΔι
+
+In dem vorliegenden Falla ist der Monat als Zeiteinheit zu wiihlen; ferner
+ist, da die Periode ein Jahr umfasst,
+
+At ] 2rc 360
+*2:13³ *1--152302
+
+so dass schliesslich die Coefficienten werden
+12
+
+(ιη = ὲΣι f(t) cos u . 3013
+
+ι
+
+b11=¹gtffflssmn30t
+l
+

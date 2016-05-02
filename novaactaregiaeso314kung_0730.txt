@@ -1,0 +1,79 @@
+16 N. C. Durum,
+
+damant plus qu'aux differentes mesures de 10 distance entre deux raies
+spectrales il arrive presque inevitablement que les mesures se portent
+chaque jour sur des parties differentes de 10 ν10, 01 que par consequent
+ces erreurs s'elimineut presque entierement dans 10 moyenne d'un grand
+nombre de mesures. Oependant j‘ai prefere de rien nbgliger, et j'ai de-
+duit la formule suivante pour les corrections qu'il convient d'appliquer
+aux lectures:
+
+Corr. = 4 0‘‚0006 4 0¹,0014 Sin (F - 36⁰)
+
+Cette formule donne pour
+
+Ἰι· = 0⁰ 90⁰ 180Ο 270⁰
+Err. per. = — 0‘,0002 4 0¹,0017 4 0¹,0014 — 0‘,0005
+Obs. — calcul. z 4 0‚0002 - 0‚0003 4 0‚0002 — 0,0003
+
+= A l'aide de 10 formule trouvee‚ j'ai calcule 10 table suivante qui
+donne les corrections⁷ exprimees en unites de 10 quatrieme (1001111010,
+qu'il faut appliquer aux lectures sur le tambour:
+
+Table des erreurs pe'riodiques en 1887.
+
+ 
+
+ 
+
+ 
+
+0 1 1 2 3 4 1 5 ’ 6 , 7 ἔ 8 9
+0¹,0 -21-1 -1 40141142143144144 45
+0,1 4 6 4 7ι 4 8 4 9 4 91 410 411 4121 413 413
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0‚2 414 4154 415Ὶ 416 4161 417, 417’ 418’ 418 419
+0,3 4191 420 †20 -0-20 *201 420 420ἰ ’1-201 420 ⁴'’20
+¹ 0,4 419 419 4181 418 4181 417, 4164 4161 415 415
+0,5 414 413 413 412 411 410 491 491 48 4 7
+0,6 46 45 44 44 43142’41,401-1 -1
+ο,7 -2 —3 -4 -4,-51-6 -6 -6’-7 -7
+ο,8 -71-8 -8 -8’-8’-81-81-81-8 -8
+0‚9 -7 -7 —7 —6 —6 -6,-5 -4ι-4 -3
+
+En 1888, il m’a fallu reiterer ces recherches. En construisant 10
+micrometre, M. ‹JI'JRGENSEN avait commis l’erreur de faire 10 1000011 0
+boudin trop court. Par consequent, celui-ci exercait une si forte pres-
+01011 sur 10 vis, lorsqu'on s'avancait aux plus 11011100 valeurs de l’echelle
+des tours entiers, qu’il etait presque impossible d'atteiudre 1010011110 4O‚0
+01 pas prudent de surpasser la lecture 33. Je priai donc M. JI‘JRGENSEN
+de remedier ὲ ce defaut pendant l'hiver 1887—1888‚ en changeant le
+
+ 
+
+ξ
+9'
+ι
+

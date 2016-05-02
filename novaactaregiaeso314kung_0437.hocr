@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso314kung_0437.png"; bbox 0 0 2267 3068; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1589 254 1861 452">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1589 254 1861 452">
+     <span class='ocr_line' id='line_1_1' title="bbox 1662 254 1782 280; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1662 254 1715 280; x_wconf 78' lang='lat' dir='ltr'><em>I’I.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1756 254 1782 279; x_wconf 70' lang='grc' dir='ltr'>Γ.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1589 308 1810 348; baseline 0 -11"><span class='ocrx_word' id='word_1_3' title='bbox 1589 308 1810 348; x_wconf 47' lang='grc' dir='ltr'>ις’ίΡΙιΙΙΙή-ιχνΙΙα.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1589 359 1861 400; baseline -0.007 -10"><span class='ocrx_word' id='word_1_4' title='bbox 1589 359 1861 400; x_wconf 59' lang='grc' dir='ltr'>(ι’Ι().«)·.κύ(ἰ’]ιΙΙιιΙυκ4</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1589 411 1775 452; baseline -0.005 -10"><span class='ocrx_word' id='word_1_5' title='bbox 1589 411 1775 452; x_wconf 62' lang='lat' dir='ltr'>Iaqalvmlis.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 777 1304 1141 1349">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 777 1304 1141 1349">
+     <span class='ocr_line' id='line_1_5' title="bbox 777 1304 1141 1349; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 777 1304 1033 1349; x_wconf 74' lang='lat' dir='ltr'>PLATE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1083 1305 1141 1349; x_wconf 77' lang='lat' dir='ltr'>V.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 146 1436 1774 1560">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 146 1436 1774 1560">
+     <span class='ocr_line' id='line_1_6' title="bbox 146 1436 1774 1491; baseline 0.001 -16"><span class='ocrx_word' id='word_1_8' title='bbox 146 1436 396 1485; x_wconf 78' lang='lat' dir='ltr'>Stebbingella</span> <span class='ocrx_word' id='word_1_9' title='bbox 431 1438 566 1486; x_wconf 65' lang='lat' dir='ltr'>Tmen,</span> <span class='ocrx_word' id='word_1_10' title='bbox 606 1441 898 1491; x_wconf 75' lang='lat' dir='ltr'><strong>Glossoeephalus</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 935 1441 1267 1487; x_wconf 81' lang='lat' dir='ltr'>Milne-Edwardsi‚</span> <span class='ocrx_word' id='word_1_12' title='bbox 1308 1439 1343 1478; x_wconf 80' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1372 1439 1543 1489; x_wconf 79' lang='lat' dir='ltr'>spiniger‚</span> <span class='ocrx_word' id='word_1_14' title='bbox 1573 1439 1774 1489; x_wconf 71' lang='lat' dir='ltr'><strong>Leptocotis</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 648 1509 1268 1560; baseline -0.003 -11"><span class='ocrx_word' id='word_1_15' title='bbox 648 1509 886 1556; x_wconf 75' lang='lat' dir='ltr'><strong>tenuirostris,</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 915 1511 986 1548; x_wconf 82' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_17' title='bbox 1014 1510 1051 1549; x_wconf 88' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1081 1509 1268 1560; x_wconf 80' lang='lat' dir='ltr'><strong>spinifera.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

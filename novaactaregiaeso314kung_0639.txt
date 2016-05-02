@@ -1,0 +1,58 @@
+KoNsTAN'rENBEs'rlMMUNG MlT EINEM LAMON'rSvHEN THEODOLIT. 11
+
+welche (hesse aber vernaehliissigt werden kann. Mein machster Gedanke
+war, dass Ungleichheit der elastischen Nachwirkungen der beiden Faciem
+vielleicht die besproehene Differenz verursachen konnte. Nach BOLTz-
+MANN ¹) nehme ich 1111, dass die zur Zeit r wiih1·end (168 Zeitelements {lr
+durch elastisehe Naohvvirkung entstandene »Kraftverminderung» propor-
+tional sei 1) der daun stattfindenden Deformation‚ somit auch 111 111186-
+rem Falle dem Tol-sionswinkel ·‘)-(r>; 2) dem Zeitelemente ‹lr; 3) 611161
+gewissen Funktion φρ - r) (168 Zeitabstandes bis zur Zeit t der 861111111-
+gung3 wonaeh die Bewegungsgleichung wird:
+
+,(Ρθ '⁷
+
+A (W = - 111Ης11γ>θ 1.] ‹Mt— r)‚<)‹(r>«;lr .
+
+ 
+
+Um die Funktion (p zu bestimmen, (116116 ich (1611 2116181 ausge-
+drehten Faden um den Winkel υ 1111(1 bestimme experimentell (1611 Ablen-
+kungswinkel (168 Magnete, a, als Funktion der nach der Drehung ver-
+flossenen Zeit. Ist f das Torsionsmoment des Fadens, 8ο wird dabei:
+
+[UH 8111 α = f(v -- α) — [ιφζῐ - 1)(11- α<1))(] r .
+
+Es ist aber O
+s'w — r)<v —ammr Ξ (υ -awnstfo - 001 r ,
+
+wo λ 6111611 66111611 Brun-h bezeiohnet. Nun ist aber α selber im Ver-
+1151111188 zu υ klein3 dessen zeitliche Anderungen kennen daher neben 11
+ν611136111ἐὶ881ἕ1] werden, und man bekommt:
+
+² . - sina α α ΜΗ
+
+s‘W fl ψη :s - ΜΗ,Π = ΜΗ (τομῇ - je) = (020 ἣ α) ‚
+
+Ο 'U—(l 1)-αο 'U—O( U—Ol
+
+f
+
+weun 8111 α mit α vertauscht und ἠ
+L
+
+ 
+
+durch 86111611 Wert , αθ 6186121
+
+wird. Dureh Differentiation erhiilt man:
+
+ΜΗ ⁷ «la ΜΗ
+
+φωεῇῗυῖἇ ’ TI? (v--oc)² ’ <lt
+
+ 
+
+1) L. BOLTZMANN: Zur Theorie der elastischen Nachwirkung. Poggendorffs
+Annalem, Ergssnzungsband VII (1876).
+

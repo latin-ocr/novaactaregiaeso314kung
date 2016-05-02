@@ -1,0 +1,63 @@
+14 E. SOLANDER,
+
+zwei angenhssherte VVurzelm um eine Verbesseruug zu erhalten, setze man
+in der Gleichung ,πῖ-μδ statt a· und erhalt (vergl. (116 Newtonsohe Ap-
+proximationsmethode> mit Vernaehlssissigung von (5² und (5³, die Verbes-
+serung:
+
+ὁ» 2 - „J'Lsssttib - (ΡΟ) ss Q
+
+f (ὲ pi> “ 2 <2³² ψ ⁷22²>
+
+ 
+
+Neben 29² im Nenner kann aber 772² vernachlssissigt werden, und soluit
+ergiebt sich:
+
+ξιξ =-5‡1> (1-22‘23'22‘ .
+“2 ..a 1)
+
+Es ist leicht zu seben, dass die dritte, reelle Wurzel m und ⁷· in
+erster Potenz enthalten muss; Vernac}1l{issigt man alsdann von vorn
+herein Quadrate und Produkte von m und r, so wird
+
+(ευ ι- oe1)(z — ‘⁷3⁴2) z 42¹² -ξ- our -ξ- ])“”’ .
+
+Dies in f(oe) dividiert giebt als Quotient .1·-}-m—7‘ mit dem Rest-
+term hbherer Ordnung -1‘(m—r).v. Mit hinreichender Genauigkeit ist
+somit (116 solution der Differentialgleiohung:
+
+p(1„]1²2)t÷ag .
+
+2 ΡΞ
+
+r
+θ = Ae-(”²-''>¹ -Ι- ΒεἻῑ cos
+
+ 
+
+Das erste Glied riihrt offenbar davon her⁷ dass die Anfangsbedin-
+gungen niehts davon sagen, ob vor dem Beginn der Sohwingungen der
+Faden in der endgflltigen Gleichgewiohtstellung sich befand; ist dies der
+Fan, muss A verschwinden. In der Tat, reohnet man die Zeit vom er-
+sten Durehgang, so wird α = — ⁷] , und fiir t = O ¹90 = A = die anfhlng-
+
+-a
+
+lic-he Ablenkung von der sehliesslichen Gleiohgewiohtslage. Der Aus-
+druok ffir (116 beobaohtete Sohwingungsdauer ist nunmehr:
+
+71
+2> (1 - ΞΖ· 312)
+und somit die erheischte Korrektion ε des Schwingungslogarithmus
+
+ι = -- Mod. Q Ξ - Mod. Ψ ζ’.
+
+222‘2 2 π
+
+7
+
+ 
+
+ 
+

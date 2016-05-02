@@ -1,0 +1,92 @@
+Dssoucmom Das PROPROETizs PRlNCH‘ALES DE LA FONc‘rmN etc. 15
+
+mais si Za fonction a l’z'nfinz' double v¹ dans le paralle'loqrarnme P, ‹p(u) est
+de la forme
+
+ 
+
+(1)(υ)Ξ ——A 47:00 3
+
+(ιι - υιῩ
+
+’ dans les (leuse cas on de'siyne par A une constante, diffe'rente de Ζεῦ-ο, et par
+
+χ(1ιι) une fonction, qui est fini& <lans le paralle'loyramme P.
+
+D’aprbs le the}or‹}me I toute fonction elliptique (ραι) du second
+ordre peut s’exprimer au moyen de la fonction o(u); maintenant nous
+d&m011trerons‚ qu’on peut. exprimer (Λα) au moyen de la fonction p(u).
+
+αἳ —u
+
+Remplaqons ὲ oet effet u par α- ῘῨῙῙζ-αέ et v par ¹ dans la for-
+
+ 
+
+mule (46), nous en deduirons
+
+(95) o(u - zc,)‹5(u -- u2) Ξ
+
+-σ()-1)ζ11))1)σ<1)ῑ11))1)(α-)ω;)))--ψῃ) ,
+
+ 
+
+ 
+
+ 
+
+ 
+
+-ι
+
+ 
+
+⁷ formula, qui subsiste pour tontes les valeurs des quantit& αι et 2023 de
+
+mssme nous trouverons
+
+(96) σ<α - 222> σ<ιι -- 2⁷2> =
+
+- 1(1- ”ῑζὟ 00²3 12)) (u- 3 1)) - φας υι) .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ᾖ Appliquons ces deux formules ἡ Γέᾳυᾶΐίοη (81), nous en obtien-
+drons, d’aprbs l’6quati0n (80),
+
+111 ῑ ’12) <20 — 3 11) a q (11 -2- 1)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(97) w> = ο
+
+ 
+
+ 
+
+ 
+
+’ ce qui dtssmwntre le the'zorbme suivant..
+
+ 
+
+lee'orbme IV. Soit (Λα) une fonction elliptique du second ordre ayant
+Ι le-s· pe'riodes 2w, 2w' et adtnettant les ze'ros ul, u² et les infinis vl, v2, et
+supposons que
+
+u1†u2=z⁷1-}-v2‚
+

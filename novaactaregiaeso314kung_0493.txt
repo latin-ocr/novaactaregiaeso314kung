@@ -1,0 +1,49 @@
+DE LA CONVERGENCE ου DEVELOPPEM. ANALYT. DE LA FONCT. E12L.]›(u) etc. 35
+ξ 7.
+Calculer numeriquement la valeur de l'argument u, la valeur de la
+
+fonction poc), et celle de Mu), etant donnee.
+
+La methode de M. VVEIERS'PRASS de ealculer la valeur de l'argu-
+ment u, la valeur de s=p(u), et celle de ρ’(ιι), etant. domme, est si
+soigneusement exposee par M. SCHWARZ dans)>F01·meln und Lehrsssitzeffl)
+qu’il n’est necessaire d'en citer que les formules capitales, necessaires
+pour le ealeul pratique.
+
+La methode exige:
+
+1⁰ la resolution de Fequation
+43³ — ,ιφ-,3 —573 = O
+
+2⁰ le oaleul des quantites
+
+<sel-e„ -ςβελ-ρμ l
+<seg—er-f-<seg——Fu
+
+ 
+
+(1)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3⁰ le calcul des quantites
+
+L0=1÷<3>22⁴÷<3³)222÷<3.-—3>
+
+-<3>c ÷<3 3>2÷<313÷3>2212÷---
+ι = 3—:3-2-322 ψ
+
+ 
+
+1) {soiljgnwfflz pp. 67-73.
+

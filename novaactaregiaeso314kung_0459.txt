@@ -1,0 +1,28 @@
+De la convergenee du developpement analytique de la fonction
+elliptique ,σία ,’ 92 ,· 9³) et du calcul de la valeur de l’argument
+u, la valeur de la fonction p(u) etant (10111166.
+
+Le but principal de ce 1116111011· etant d'exposer 11116 nouvelle 1116-
+thode de 6111611161 approximativement 111 ν1116111 (16 Pargument (ι, 11 l’aide
+seulement du developpement analytique de 111 fonction Ρζιι ῃχὲ 3513), il
+faut commencer par chercher 166 limites de l'espace de convergence de
+66 developpement, c'est 11 (1116 166 conditione auxquelles doivent 611116-
+faire 166 coefficients 1116111166 572 et 573, afin que le deve10ppement suffiso
+pour calculer la valeur de la fonction JJQc), lorsque l'on 6011111111 111 Va-
+leur de l'argument (ι. En esset, 110116 ferons voir, que 16 developpement
+analytique de la fonction 220⁶) est 1111661 601111110(16 pour 16 61116111 indirect
+de 111 valeur de l’argument u, Ia valeus de 111 fonction pta) etant donnee,
+que pour le calcul direct de 111 valeur de 111 fonction 2200) elle-nieme,
+lorsque l’on connait la valeur de l'argument u. Aiusi, le developpement
+analytique de 2)(u ; 92 3 573) etant une serie ordinaire de gs2,573 et de
+l'argunient u, plus la valeur de u est petite, plus la 66116 est commode
+pour calculer la valem- de p(u) — et vice versa. D'aille11rs‚ l'espacc de
+convergence etant dependant (166 116166 de la fonction ch), plus 011 saura
+restreindre l’espace du developpenient analytique necessaire pour 16 61116111
+direct ou indirect, plus 16 61116111 sera commode. Voile pourquoi la reduc-
+tion du 661616 (16 convergence (111 dcveloppement analytique de la fonction
+p(u) doit preceder la recherche des conditione auxquelles doivent satis-
+faire les coefficients 92 et 513, afin que 16 calcu] suivant soit commode.
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 1
+

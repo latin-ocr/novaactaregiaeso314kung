@@ -1,0 +1,46 @@
+26 N A. ssmmmz. ι
+
+§a
+
+SUR LA DERIVEE DE LA FONc'rmN ELLIPTIQUE GENERALE
+DU SEGOND ORDRE.
+
+En desssignant par (ραι) une fonction elliptique du second ordre
+aux pffidodes 2ω, 2w'‚ la ᾶόῑίνὲθ φ’(ιι) sera &videmment une sonet-ion
+
+elliptique ayant, les ιᾙέωθε ρόῑίοάθε, et la fonction φ’(α) ne deviendra v
+
+infinie que pour les valeurs de ιι, qui rendent φᾲι) infinie. Si la fonc-
+tion φζῑι> admet deux infinis simples v¹⁷ 172, 92¹(u) aura les infinis doubles
+01, a„ et par suite φ’(α) sera une fonction elliptique du quatrieme ordre,
+mais si la fonction (Λα) a l'infini double v„ la de‘rive'ee φ’(α) aura l'infini
+triple v„ et par con84quent φ’(ιι) sera une fonction elliptique du troisibme
+ordre. Maintenant nous &terminemus les z6r0s de la de'rivffle q>'(u).
+Par diffffientiation on definit. de fflquation (83)
+
+(144) φ’(υ1 -f- υ2 - ιι) = — φ’(ιι) .
+Supposons‚ que la fonction φ(ιι> ait les deux infinis simples v„
+
+(⁴2, et sqbstituons dans l'e‘quation (144) successivement
+
+(145) a: 0¹⁷⁷÷v2 ‚ u = [ἰ &1¹2 41„ , α = E1†v2 μί’, u: ξῖιά-έίἓ ω’,
+., 9 2 ÷
+
+2
+
+a ..Ι
+
+nous en firerons, la fonction φ((ι) admettant les 1:1‹5ri0des 2ω, :2w' ,
+
+(146) 43(v1⁷43-AE)= - φ’ (²³1 42-0) ‚
+(14⁷) w(¹ ÷w) = —w‘(9¹ss2ss ÷w)
+
+(148) q! ( ¹
+
+(149) φ’ (ἐιη -
+
+La ἀέτίνέε φ’(ιι) <Stant fmie pour tontes les valeurs de u, qui ren-
+dent φφ) finie, on conclura du thffiorbme VII, que les quantia-is, qui
+
+ 
+

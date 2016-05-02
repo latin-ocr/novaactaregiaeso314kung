@@ -1,0 +1,63 @@
+18 ERNST PFANNENSTIEL‚
+
+Ist namlich α negativ und setzen wir in das Integral — ζ stati: z,
+so erhalten vvir
+
+ 
+
+Γζ <KZ . Ξ m· .
+
+ss QMQL im) [(’ζ ÷ a>² ÷ [32]
+
+Wir kennen daher den Principalwerth des ersten Integrals derart
+besffiunnen, dass
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(J . - αΗ
+λ’νὲιςῖῆῖέἶξῗςέ ζῖᾎὶῒᾶῖῖ ² ” Ἃ νῇῒῇ)ῖμ α ÷ ff]
+
+Ist α =0‚ kbnnen wir auf dieselbe Weise
+
+ 
+
+Ῐνιι-εςῖἶᾲμβῖ) :s ΜΝΞ-β)
+
+setsen.
+
+Eingehende Untersuchungen iiber diese Falle sind von weniger
+Interesse. Sobald irgend eiu Werth eines gegebenen Integrals definirt
+und berechnet ist, erhalt man ohne Schwierigkeit jeden anderen Werth.
+
+Naehdem wir also die theoretische Seite der Methode auseinander-
+gesetzt, bleibt uns nur iibrig, eine Darstellung der praktischen Behand-
+
+lung zu geben.
+Will man also den Werth ιι des Integrals
+
+ 
+
+ 
+
+Γ dz ,ἠ = u
+‘÷„V554922-E³
+
+einen] gegebenen Werth der oberen Grenze z entsprechend berechnen ‚
+so sucht man zuerst eine Wurzel der Gleiohung dritten Grades
+
+423—923--93 =0
+
+und zwar die reelle, oder, wenn deren mehrere vorhanden sind, die
+kleinste unter ihnen. Diese Wurzel wird - s genannt.
+Dann ist
+
+-4s⁸÷y2.s—9„=0 .
+

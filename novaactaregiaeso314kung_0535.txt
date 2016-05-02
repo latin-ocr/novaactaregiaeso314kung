@@ -1,0 +1,51 @@
+ΕῙΝΕ ΜΕΤΗΟΒΕ ZUR BERECHNUNG DEs INTEGRALS ete. 7
+
+Grenzpunkte der Integralen verbinden. Withlt man den Integrations-
+weg des Integrals λῖς willktirlich, so kann man immer die Integrations-
+
+wege von ‚Is-'2¹ ‚ JJJL derart bestimmen, dass
+ιΙν, Ιν, {Il-³
+¹⁸³ ’ ’“.· = Va
+wird, woduroh der aligemeine Ausdruok von u zu
+
+1⁶:¹⁶1ss Z’IJJJL ὲ 2 m ‹JJJ
+
+vereinxfaeht- wird. VVir k6n11en diesem Ausdrucke eine andere Form geben.
+Wir denken uns na'mlieh zwei Wege von 1’2 zu 9-1, welche zusammen eine
+geschlosseno Kurve bilden, die ⁹¹3 einschliesst.
+
+XVerden nun die diesen beiden Wegen entsprechenden Integral-
+
+werthe mit Jr'2' 7 ᾆξ’ bezeichnet, so findet man leicht‚ dass
+
+2113- <123¹ = εἰ 2213? ,
+
+wodurch der allgemeine Werth von ιι sich folgendermassen schreiben liisst
+
+u = ιιι ss 2ldsz¹ ss m [λζ1 - ιῘνΙζἹ
+
+oder eben sogut
+
+ιι = ul ss ΞίιῙΓΓΞΙ ss m [th] -ξ- Jr'J'] .
+
+Sind nun die Wurzeln ν1 , 1‘2 , 7'3 sammtlich reell und ⁷⁴1>⁷'2>‘²‘³,
+so ist das Integral liings einer geschlossenen Kurve‚ die r, 1'2 einschliesst,
+vom Zeiehen abgesehen, gleich dem doppelten Integral lenge der reellen
+Aehse von —00 nach r37 und das Integra] langs einer gesehlossenen
+Kurve um 7⁴2 ‚ r„ gleich dem doppelten Integral von νι Ιὲὶῃςε der reellen
+Aehse nach ÷ 00 ‚ also
+
+2Js¹=ss2gj ‚ 22J,T³²=‡2J„“j.
+
+2
+
+Man hat also
+’ u=ulss2l2lL³ss2er²J
+
+und die Ecken des parallelogrammnetzes der Funktion §¹²(u) werden
+folglich durch
+
+ss2lgae⁷³ss2mJ3ss
+
+represent-irt, wobei J? rein imaginin- 7 J: reell wird.
+

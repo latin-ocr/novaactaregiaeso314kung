@@ -1,0 +1,59 @@
+DE LA CONVERGENCE Du DEVELOPPEM. ANALYT. DE LA FONCT. Em„ 1)(11) etc. 3
+
+L'avantage p1·6÷cieux de cette methodo. de transformatio„ (168111ΐρ-
+grales elliptiques, (10111166 par M. WEIERSTRASS, consiste 611 ee qu'elle
+dispenso de la solution numerique (16 l'equation 134 (1) z Ο, travail ordi-
+nairement tres-tedieux. La methode (10111166 par M. WEIERSTRASS pour
+031011161- la valeus η (16 l'integrale (2), et dont nous citemus plus ‘card
+les formulas, exige la solution (16 l'equation 4⁸³-5l2 3—573 = Ο , ce qui
+est naturellement beaucoup plus commode que de resoudre l’equation
+R„ (22) = O .
+
+L'objet priucipal de 06 1116111011 sera (16 1110110861 11116 nouvelle
+methode (16 0111611161 la 171116111- 1( (16 l'iutegrale elliptique (2), methode
+qui dispeuse 11161116 (16 la solution numerique de l'equation 4.33—y2.5·
+—93 = Ο, et d’examiner dans quels eas cette methode sera Ι(11111110111116
+et ὲ preferer.
+
+. De meme que u est une fonction (16 la limite superieure ,5- (16 l'in-
+
+tegrale elliptique (2), s est une fonction de la quant-ite u. Cette fonction
+elliptique de u ‚ s =P(2⁴·) , introduite dans l'analyse par M. WEIERSTRASS
+et (1έῆ1116 par 168 e'qzcations normales (2) et (3), est la plus simple et la
+plus importante de tontes les fonctions elliptiques, et par laquelle 01]
+peut exprimes tontes les autres fonctions elliptiq11eS‚ 061168 (16 plus haut
+degre par l⁷equation ι)
+
+φ(1ι , α, , u2 ‚ . . . (ιη) = 1 1)(1ι) 3)(11) . . . . ])(”“1)(1ι)
+1 ])(1ι1)]ὶ’(1ιι) . . .])(”“Ῑ)(1ιι)
+
+..........
+
+l 1)(1ιῃ) ])’(1ι,,) . . . 1)(””’)(1ι,,)
+
+M. WEmRsTRAss, ἐι l'aide de l'equation differentielle (3), a (1011116
+16 developpement analytique de la fonction elliptique s = 1)(11) 2)
+
+1· ÷ ÷ ’ᾁῖ 21325 '⁴⁴'
+
+(4) 21<u>= 22, ,ἶ
+
+ 
+
+ 
+
+1ι2-1- 74⁹3— ((4.1-
+22 . 7
+
+ 
+
+ 
+
+ 
+
+*¹* 2⁴ ,359.²{³. 1T²‘⁸÷···
+
+(5) 1)(11) = z-{f 4- -f- 62102 -1- (13114 -1- . . . -1- qum-*² -1- . . .
+
+1) Voir SCHWAR'A: Formeln und Lehrs. p. 16. 2) p. 10. 3) (7) p. 11.
+

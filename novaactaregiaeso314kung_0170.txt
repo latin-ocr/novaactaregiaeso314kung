@@ -1,0 +1,39 @@
+116 A. BERGER,
+
+g 14.
+
+SUR LES SOMMES DES PUISSANCES DES DIVISEURS D'UN
+NOMBRE ENTIER.
+
+Considerons encore quelques cas speciaux du theoreme XVI;
+supposons d'abord⁷ que
+
+t> O Ἰ
+et posons dans ce theoreme
+Ν ² t7 Ἢ :²0 ν
+
+HOUS aurons
+
+ψίίῡ) = Σ Τ ⁷
+,ι
+
+οὺ (Ζ est egel successivement& tous les diviseurs positifs du nombre
+lc, et
+
+(425) ‘im-,3 Ξ si] li(jt—1‚0>÷}}÷⁹L{K(t—1 ,ιη-ἒ
+. ,ι . 'ssl , fn Ξῖ -l
+4- ‘gn -ι- agn — -†- ιῚη [LT‘ ,
+
+Posons dans le meme theoreme
+ΝΖΟ 7 1⁸¹¹:t5
+
+on t< O7 nous en obtiendrons pour t{ — 1
+
+(426) ᾸΞῨ ww> Σ ηὲΚα -1 , ο) -ξξ 4 {⁷1¹1 {Ksst ψ 1 ‚ ο) Ἵμέξ
+k=1 '
+'†l
+ΔΓ λ, ÷ 2322ss ÷ a„ ’‘Li-*sl
+et pour t = — 1
+
+(427) Ξίμα) = ηέῑςμ 2 , ομῑ ÷ 22 10ng .
+

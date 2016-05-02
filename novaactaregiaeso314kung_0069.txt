@@ -1,0 +1,61 @@
+Rsscnmzcnsss SUR LEs VALEURS MOYENNES DANs LA THEORIE DES NOMBRES. 15
+SUR QUELQUES RELATIONS EN'PRE DES SERIES ΕΤ DES
+VALEURS MOYENNES.
+
+D68ignons par a et b deux quantitbs reelles, qui satisfont aux
+conditions
+
+ww a>0‚b3-1,
+
+et par
+
+,02703‚04 ......
+
+une suite de quantiffis ffielles, et supposons que l'on a
+
+ 
+
+ 
+
+ 
+
+(w) fimffl÷½†ffl÷ffl·†Q=C,
+
+72⁰ (log n)‘'
+
+οὺ. C dAESigne une quantit& finie. Cela ροεέ, en definissant une fonction
+F(2) au moyen des &quations
+
+F(2)=0 pour ng<l‚
+F(z) = e, pour 1 Ξ z < 2 ,
+F(2) = ⁶1 4- 02POU1' 2 Ξ z < 3
+et, en gtssnfflal,
+(59) F(2)=01÷02÷ess÷....÷c„pour2zgz<n÷1‚
+
+ΟΠ aUI'a
+
+ffim ΡΨ) ,σμψπᾼ- ----- -÷Q πἽῶὲὠὺ
+
+2⁰(log z)‘' “ n“(logoz)⁶ ⁶ 2‘¹(log z)³' '
+
+ 
+
+ 
+
+οὺ n = Ζ-ρ, en &signant par ρ une fraotion propre, et par suite on
+obtiendra des &quations (58) et (60)
+
+(Μ) Πωὴῌᾷὤες,
+
+2=oo 2¹² (log z)‘'
+
+Soit w une quantit& positive, on aura
+
+&Q 1 =s”d5-
+
+(α -1- w)72‘¹†²⁶ . η ’Ζαῇῖω ⁷
+
+ 
+
+ 
+

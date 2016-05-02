@@ -1,0 +1,52 @@
+RECHERCHES SUR LA ROTATION DU SOLEIL· 53
+
+οὺ m est l’ordre du specste, e la distance entre deux traits consecutifs
+du reseau, α et α’ les deviationis des raies speetrales dont les longueurs
+d'onde sont. λ et λ’ resp. Par consequent on a:
+
+2 (Sin α’ - Sin a) = {⁷3² (λ’ -. λ)
+
+OU
+
+Ι
+
+4 Sin ὲ (α’ - α) Uos-g (α’ 4- α) = ἒ (λ’ - λ) .
+
+Mais quand il s'agit des mesures differentielles, α’-α est une
+petite quantite. Par consequent, on peut sans aucune erreur sensible
+
+introduire ὲ (α’ — α) au lieu de Sin ὲ (α’ — α) , dono:
+
+u
+
+2 (α’ — α) Cos ὲ (α’-μα) = [εἰ (λ’ - λ)
+
+et, a‘-a etant egale ὰ D, selon l'equation (18):
+
+2e 0083& -4- α)
+
+Ι
+ΗΞᾹΙζῂλ-ΞΗ ,2η
+α -α qn
+
+De meme maniere, on obtient pour une longueur d'onde moyenne λοι
+
+R - ZeCos a„
+0— ⁷ Π *rii*
+
+Ἰ
+
+et par la division de ces deux equations:
+
+Ro . Cos ao
+
+1³³-Cosssm'4-‹209
+
+OU
+
+(19). . . . R0=R003a0540.{(a'÷a).
+
+Les quantites αυ &goi-fa) peuvent &tre caleulees ὸ. l'aide des
+
+equations suivantes :
+

@@ -1,0 +1,58 @@
+10 ERNST PFANNENSTIEL‚
+
+Ehe wir zu den praktischen Anwendungen der im Anfang dieser
+Abhandlung dargestellten substitution schreiten, ist unsere niichste Auf-
+gabe, theils auf eine &indentige VVeise (136 Integra] als Funktion der
+oberen Grenze zu besffirnmen, theils ein Gesetz festzustellen‚ nach wel-
+ehem man bei jeder Substitution (116 obere Grenze (166 umgeformten
+Integrals zu withlen hat.
+
+Wir behandeln zuerst (1611 Fau, wo (116 Wurzeln (166 go-integrals
+sammtlich reell sind.
+
+Wir ziehen von ν, aus durch ΤΞ, 7‘3 113611 -οο eine Gerade und
+stellet] fest‚ dass (116 Integrationskurve (11666 Gerade nirgends schneiden
+darf. Femer 11611111611 wir 311, (1366 der Ausdruok
+
+ 
+
+Ἡ (2 — (ἰ) (³ — ἦ) (2 ἓ rs)
+
+dieselbe Bedeunmg hat, wie
+
+2 VZ -Ᾰ 7'1 V?— ΤΞ γῖμ-Χνηζ .,
+
+und dass fiir lc = 1‚2 , 3
+
+ 
+
+9¹2.
+γε-ἶῖ, ² γῆς 37⁴, 71 Ξθι- >- ’Ὗ v VE Σ pos·
+
+Bestirnmen wir endlioh, dass die lntegrationskurve ihren Anfangs-
+punkt. in — 00 hat, welcher Punkt 316 oberhalb der reellen Achse und
+unendlioh nahe an derselben liegend gedacht wird, 6ο ist hierdurch das
+Integra}
+
+ 
+
+ 
+
+2 (ιε
+Lm& 4335& Ξ ›·2> (ε — ra>
+
+als eindeutige Funktion der oberen Grenze bestimmt. Was die Substi-
+tution betriffl, schreiben wir sie folgendermassen
+
+g1={†{†{V2—1·1V2—r2
+
+oder
+
+ 
+
+⁶¹4⁶²t
+
+(6) ζιῐξψξψξγῑεῑῐε 2 ‚
+
+wodurch auch (11666 eindeutig bestimmt ist.
+
